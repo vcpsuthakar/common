@@ -64,7 +64,7 @@
 				salesforceMetadataCache="Reload" 
 				projectCachePath=".provarCaches" 
 				testOutputlevel="WARNING" 
-				licensePath="projectCachePath"
+				licensePath="${license.path}"
 				pluginOutputlevel="WARNING"
 				stopTestRunOnError="false"
 				invokeTestRunMonitor="true"
