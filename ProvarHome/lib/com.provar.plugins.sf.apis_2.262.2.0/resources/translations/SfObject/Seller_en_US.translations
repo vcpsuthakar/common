@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Seller.ActiveFromDate" type="SfFieldLabel" value="Active From Date"/>
+  <translation key="Seller.ActiveToDate" type="SfFieldLabel" value="Active To Date"/>
+  <translation key="Seller.Id" type="SfFieldLabel" value="Seller ID"/>
+  <translation key="Seller.Name" type="SfFieldLabel" value="Name"/>
+  <translation key="Seller.Owner" type="SfFieldLabel" value="Owner Name"/>
+  <translation key="Seller.SellerTier" type="SfFieldLabel" value="Seller Tier"/>
+  <translation key="Seller.SellerType" type="SfFieldLabel" value="Seller Type"/>
+</translations>

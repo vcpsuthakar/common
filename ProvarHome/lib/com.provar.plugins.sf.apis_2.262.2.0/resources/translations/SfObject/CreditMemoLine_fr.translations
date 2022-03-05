@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CreditMemoLine.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="CreditMemoLine.Id" type="SfFieldLabel" value="ID de ligne de note de crédit"/>
+  <translation key="CreditMemoLine.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="CreditMemoLine.Name" type="SfFieldLabel" value="Nom"/>
+</translations>

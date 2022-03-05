@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MLPredictionDefinition.DeveloperName" type="SfFieldLabel" value="Name"/>
+  <translation key="MLPredictionDefinition.Id" type="SfFieldLabel" value="ML Prediction Definition ID"/>
+  <translation key="MLPredictionDefinition.Language" type="SfFieldLabel" value="Master Language"/>
+  <translation key="MLPredictionDefinition.MasterLabel" type="SfFieldLabel" value="Label"/>
+  <translation key="MLPredictionDefinition.PredictionField" type="SfFieldLabel" value="Prediction Field ID"/>
+  <translation key="MLPredictionDefinition.Status" type="SfFieldLabel" value="ML Prediction Status"/>
+  <translation key="MLPredictionDefinition.Type" type="SfFieldLabel" value="ML Prediction Type"/>
+</translations>

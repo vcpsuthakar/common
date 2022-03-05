@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PaymentGatewayProvider.Comments" type="SfFieldLabel" value="Kommentarer"/>
+  <translation key="PaymentGatewayProvider.DeveloperName" type="SfFieldLabel" value="Namn"/>
+  <translation key="PaymentGatewayProvider.Id" type="SfFieldLabel" value="ID för leverantör av betalningsgateway"/>
+  <translation key="PaymentGatewayProvider.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="PaymentGatewayProvider.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="PaymentGatewayProvider.MasterLabel" type="SfFieldLabel" value="Etikett"/>
+</translations>

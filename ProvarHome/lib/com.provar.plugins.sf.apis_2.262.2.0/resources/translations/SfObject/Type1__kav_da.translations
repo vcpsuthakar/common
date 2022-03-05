@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Type1__kav.ArchivedById" type="SfFieldLabel" value="Arkiveret af"/>
+  <translation key="Type1__kav.Id" type="SfFieldLabel" value="Versions-id for vidensartikel"/>
+  <translation key="Type1__kav.IsDeleted" type="SfFieldLabel" value="Er slettet"/>
+  <translation key="Type1__kav.Language" type="SfFieldLabel" value="Sprog"/>
+  <translation key="Type1__kav.Owner" type="SfFieldLabel" value="Ejer"/>
+  <translation key="Type1__kav.PublishStatus" type="SfFieldLabel" value="Udgivelsesstatus"/>
+</translations>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="RecordsetFilterCriteria.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="RecordsetFilterCriteria.CurrencyIsoCode" type="SfFieldLabel" value="Código ISO da moeda"/>
+  <translation key="RecordsetFilterCriteria.Id" type="SfFieldLabel" value="ID do critério de filtro do conjunto de registro"/>
+  <translation key="RecordsetFilterCriteria.IsActive" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="RecordsetFilterCriteria.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="RecordsetFilterCriteria.Name" type="SfFieldLabel" value="Nome de critério de filtro do conjunto de registro"/>
+  <translation key="RecordsetFilterCriteria.Owner" type="SfFieldLabel" value="Nome do proprietário"/>
+</translations>

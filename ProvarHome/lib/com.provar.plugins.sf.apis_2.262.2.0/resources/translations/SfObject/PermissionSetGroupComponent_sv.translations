@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PermissionSetGroupComponent.Id" type="SfFieldLabel" value="ID för PermissionSetGroupComponent"/>
+  <translation key="PermissionSetGroupComponent.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="PermissionSetGroupComponent.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="PermissionSetGroupComponent.PermissionSetId" type="SfFieldLabel" value="För PermissionSet eller ID för MutingPermissionSet"/>
+</translations>

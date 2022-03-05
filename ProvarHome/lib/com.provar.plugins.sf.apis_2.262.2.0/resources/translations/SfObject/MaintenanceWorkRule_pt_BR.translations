@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MaintenanceWorkRule.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="MaintenanceWorkRule.CurrencyIsoCode" type="SfFieldLabel" value="Código ISO da moeda"/>
+  <translation key="MaintenanceWorkRule.Id" type="SfFieldLabel" value="ID da regra de trabalho de manutenção"/>
+  <translation key="MaintenanceWorkRule.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="MaintenanceWorkRule.Name" type="SfFieldLabel" value="Nome da regra de trabalho de manutenção"/>
+  <translation key="MaintenanceWorkRule.Owner" type="SfFieldLabel" value="Nome do proprietário"/>
+  <translation key="MaintenanceWorkRule.Title" type="SfFieldLabel" value="Título da regra de trabalho de manutenção"/>
+</translations>

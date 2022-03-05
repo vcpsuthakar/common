@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Scorecard.Id" type="SfFieldLabel" value="Scorecard Id"/>
+  <translation key="Scorecard.Name" type="SfFieldLabel" value="Name"/>
+  <translation key="Scorecard.Owner" type="SfFieldLabel" value="Owner Name"/>
+</translations>

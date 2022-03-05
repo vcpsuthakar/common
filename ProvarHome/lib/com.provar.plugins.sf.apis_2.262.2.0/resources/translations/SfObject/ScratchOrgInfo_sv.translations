@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ScratchOrgInfo.Country" type="SfFieldLabel" value="Begärt land"/>
+  <translation key="ScratchOrgInfo.Id" type="SfFieldLabel" value="Skissorganisationsinfo ID"/>
+  <translation key="ScratchOrgInfo.Language" type="SfFieldLabel" value="Begärt språk"/>
+  <translation key="ScratchOrgInfo.LastLoginDate" type="SfFieldLabel" value="Senaste inloggning, datum"/>
+  <translation key="ScratchOrgInfo.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="ScratchOrgInfo.Name" type="SfFieldLabel" value="Nummer"/>
+  <translation key="ScratchOrgInfo.Owner" type="SfFieldLabel" value="Ägarens namn"/>
+  <translation key="ScratchOrgInfo.SignupEmail" type="SfFieldLabel" value="Registrerings-e-post"/>
+  <translation key="ScratchOrgInfo.SignupInstance" type="SfFieldLabel" value="Registreringsinstans"/>
+  <translation key="ScratchOrgInfo.SignupTrialDays" type="SfFieldLabel" value="Provdagar för registrering"/>
+  <translation key="ScratchOrgInfo.SignupUsername" type="SfFieldLabel" value="Registreringsanvändarnamn"/>
+  <translation key="ScratchOrgInfo.Username" type="SfFieldLabel" value="Begärt användarnamn"/>
+</translations>

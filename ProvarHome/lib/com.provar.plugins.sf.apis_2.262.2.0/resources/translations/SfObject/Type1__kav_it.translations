@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Type1__kav.ArchivedById" type="SfFieldLabel" value="Archiviato da"/>
+  <translation key="Type1__kav.Id" type="SfFieldLabel" value="ID versione articolo Knowledge"/>
+  <translation key="Type1__kav.IsDeleted" type="SfFieldLabel" value="È eliminato"/>
+  <translation key="Type1__kav.LastModifiedById" type="SfFieldLabel" value="Autore ultima modifica"/>
+  <translation key="Type1__kav.Owner" type="SfFieldLabel" value="Titolare"/>
+</translations>

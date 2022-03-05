@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ProcessException.CaseId" type="SfFieldLabel" value="{Case}.{SfObject.Label}"/>
+  <translation key="ProcessException.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="ProcessException.Id" type="SfFieldLabel" value="ID van procesuitzondering"/>
+  <translation key="ProcessException.Owner" type="SfFieldLabel" value="Eigenaarnaam"/>
+  <translation key="ProcessException.ProcessExceptionNumber" type="SfFieldLabel" value="Nummer van procesuitzondering"/>
+  <translation key="ProcessException.StatusCategory" type="SfFieldLabel" value="Categorie van status"/>
+</translations>

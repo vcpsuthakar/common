@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="FinanceBalanceSnapshot.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="FinanceBalanceSnapshot.Id" type="SfFieldLabel" value="Id. de Instantánea de saldo financiero"/>
+  <translation key="FinanceBalanceSnapshot.Owner" type="SfFieldLabel" value="Nombre completo del propietario"/>
+</translations>

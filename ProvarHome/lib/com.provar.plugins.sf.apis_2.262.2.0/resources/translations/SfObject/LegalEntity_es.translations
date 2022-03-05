@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="LegalEntity.Id" type="SfFieldLabel" value="Id. de Entidad legal"/>
+  <translation key="LegalEntity.Name" type="SfFieldLabel" value="Nombre"/>
+  <translation key="LegalEntity.Owner" type="SfFieldLabel" value="Nombre completo del propietario"/>
+</translations>

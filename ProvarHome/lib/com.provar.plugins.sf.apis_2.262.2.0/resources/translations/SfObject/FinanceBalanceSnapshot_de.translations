@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="FinanceBalanceSnapshot.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="FinanceBalanceSnapshot.Id" type="SfFieldLabel" value="ID des Snapshots des Finanzsaldos"/>
+  <translation key="FinanceBalanceSnapshot.Owner" type="SfFieldLabel" value="Inhabername"/>
+  <translation key="FinanceBalanceSnapshot.TotalAmountWithTax" type="SfFieldLabel" value="Gesamtbetrag einschließlich Steuern"/>
+</translations>

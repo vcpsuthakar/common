@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ShiftPattern.Id" type="SfFieldLabel" value="Id. de Patrón de turno"/>
+  <translation key="ShiftPattern.IsActive" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="ShiftPattern.Name" type="SfFieldLabel" value="Nombre de patrón de turno"/>
+  <translation key="ShiftPattern.Owner" type="SfFieldLabel" value="Nombre completo del propietario"/>
+</translations>

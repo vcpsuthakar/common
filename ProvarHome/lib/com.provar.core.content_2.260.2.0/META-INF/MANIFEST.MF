@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: com.provar.core.content
+Require-Bundle: com.provar.core.testapi;bundle-version="[2.205.0,3.0.0
+ )",com.provar.core.support;bundle-version="[2.205.0,3.0.0)",com.prova
+ r.core.lib.apache.tika;bundle-version="1.13.0",com.provar.core.model.
+ base;bundle-version="[2.205.0,3.0.0)",com.provar.core.model.ui;bundle
+ -version="[2.205.0,3.0.0)",com.provar.core.serialization;bundle-versi
+ on="[2.205.0,3.0.0)",org.junit
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-Vendor: PROVAR
+Export-Package: com.provar.core.content,com.provar.core.content.api
+Bundle-Name: com.provar.core.content
+Bundle-Version: 2.260.2.0
+Bundle-ClassPath: .
+Build-Jdk-Spec: 1.8
+Created-By: Maven Archiver 3.5.0
+Eclipse-BundleShape: dir
+

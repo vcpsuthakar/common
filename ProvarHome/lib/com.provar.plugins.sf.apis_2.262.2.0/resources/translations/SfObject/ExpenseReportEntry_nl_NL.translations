@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ExpenseReportEntry.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="ExpenseReportEntry.ExpenseReportEntryNumber" type="SfFieldLabel" value="Nummer van ingang van onkostenrapport"/>
+  <translation key="ExpenseReportEntry.Id" type="SfFieldLabel" value="ID van ingang van onkostenrapport"/>
+  <translation key="ExpenseReportEntry.Title" type="SfFieldLabel" value="Titel"/>
+</translations>

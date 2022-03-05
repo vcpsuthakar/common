@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PartnerFundClaim.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="PartnerFundClaim.CurrencyIsoCode" type="SfFieldLabel" value="Código ISO da moeda"/>
+  <translation key="PartnerFundClaim.Id" type="SfFieldLabel" value="ID da declaração de fundos do parceiro"/>
+  <translation key="PartnerFundClaim.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="PartnerFundClaim.Owner" type="SfFieldLabel" value="Proprietário"/>
+  <translation key="PartnerFundClaim.Title" type="SfFieldLabel" value="Nome da declaração de fundos do parceiro"/>
+</translations>

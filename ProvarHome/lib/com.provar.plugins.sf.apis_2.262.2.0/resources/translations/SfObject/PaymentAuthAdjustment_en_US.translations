@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PaymentAuthAdjustment.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="PaymentAuthAdjustment.Comments" type="SfFieldLabel" value="Comments"/>
+  <translation key="PaymentAuthAdjustment.Email" type="SfFieldLabel" value="Audit Email"/>
+  <translation key="PaymentAuthAdjustment.Id" type="SfFieldLabel" value="Payment Authorization Adjustment ID"/>
+  <translation key="PaymentAuthAdjustment.PaymentAuthAdjustmentNumber" type="SfFieldLabel" value="Payment Authorization Adjustment Number"/>
+  <translation key="PaymentAuthAdjustment.Type" type="SfFieldLabel" value="Adjustment Type"/>
+</translations>

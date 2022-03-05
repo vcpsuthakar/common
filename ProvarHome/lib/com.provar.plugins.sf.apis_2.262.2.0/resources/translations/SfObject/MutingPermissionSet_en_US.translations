@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MutingPermissionSet.DeveloperName" type="SfFieldLabel" value="Muting Permission Set Name"/>
+  <translation key="MutingPermissionSet.Id" type="SfFieldLabel" value="MutingPermissionSet ID"/>
+  <translation key="MutingPermissionSet.Language" type="SfFieldLabel" value="Master Language"/>
+  <translation key="MutingPermissionSet.MasterLabel" type="SfFieldLabel" value="Muting Permission Set Label"/>
+  <translation key="MutingPermissionSet.PermissionsAccessCMC" type="SfFieldLabel" value="Access Experience Management"/>
+  <translation key="MutingPermissionSet.PermissionsDelegatedTwoFactor" type="SfFieldLabel" value="Manage Multi-Factor Authentication in User Interface"/>
+  <translation key="MutingPermissionSet.PermissionsEnableCommunityAppLauncher" type="SfFieldLabel" value="Show App Launcher in Experience Cloud Sites"/>
+  <translation key="MutingPermissionSet.PermissionsForceTwoFactor" type="SfFieldLabel" value="Multi-Factor Authentication for User Interface Logins"/>
+  <translation key="MutingPermissionSet.PermissionsGiveRecognitionBadge" type="SfFieldLabel" value="Give Recognition Badges in Experience Builder Sites"/>
+  <translation key="MutingPermissionSet.PermissionsGovernNetworks" type="SfFieldLabel" value="Manage Experiences"/>
+  <translation key="MutingPermissionSet.PermissionsManageCMS" type="SfFieldLabel" value="Create CMS Workspaces and Channels"/>
+  <translation key="MutingPermissionSet.PermissionsManageNetworks" type="SfFieldLabel" value="Create and Set Up Experiences"/>
+  <translation key="MutingPermissionSet.PermissionsManageSubscriptions" type="SfFieldLabel" value="Manage Tableau CRM Subscriptions"/>
+  <translation key="MutingPermissionSet.PermissionsManageTwoFactor" type="SfFieldLabel" value="Manage Multi-Factor Authentication in API"/>
+  <translation key="MutingPermissionSet.PermissionsModerateNetworkFeeds" type="SfFieldLabel" value="Moderate Experience Cloud Site Feeds"/>
+  <translation key="MutingPermissionSet.PermissionsModerateNetworkFiles" type="SfFieldLabel" value="Moderate Files in Experience Cloud Sites"/>
+  <translation key="MutingPermissionSet.PermissionsModerateNetworkMessages" type="SfFieldLabel" value="Moderate Chatter Messages in Experience Cloud Sites"/>
+  <translation key="MutingPermissionSet.PermissionsModerateNetworkUsers" type="SfFieldLabel" value="Moderate Experience Cloud Site Users"/>
+  <translation key="MutingPermissionSet.PermissionsSandboxTestingInCommunityApp" type="SfFieldLabel" value="Test Sandboxes in Mobile Publisher for Experience Cloud"/>
+  <translation key="MutingPermissionSet.PermissionsShowCompanyNameAsUserBadge" type="SfFieldLabel" value="Show Company Name as Site Role"/>
+  <translation key="MutingPermissionSet.PermissionsTwoFactorApi" type="SfFieldLabel" value="Multi-Factor Authentication for API Logins"/>
+  <translation key="MutingPermissionSet.PermissionsViewCustomerSentiment" type="SfFieldLabel" value="View Customer Insights"/>
+</translations>

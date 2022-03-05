@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PaymentMethod.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="PaymentMethod.Comments" type="SfFieldLabel" value="Kommentarer"/>
+  <translation key="PaymentMethod.Id" type="SfFieldLabel" value="ID för betalningsmetod"/>
+  <translation key="PaymentMethod.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="PaymentMethod.Name" type="SfFieldLabel" value="Namn"/>
+</translations>

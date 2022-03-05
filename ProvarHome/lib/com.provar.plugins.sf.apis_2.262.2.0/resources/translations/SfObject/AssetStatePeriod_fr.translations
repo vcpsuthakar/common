@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AssetStatePeriod.AssetId" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="AssetStatePeriod.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="AssetStatePeriod.Id" type="SfFieldLabel" value="ID de période d'état d'actif"/>
+  <translation key="AssetStatePeriod.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+</translations>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="RecordsetFilterCriteriaRule.Id" type="SfFieldLabel" value="Id. de Regla de criterios de filtro de conjunto de registros"/>
+  <translation key="RecordsetFilterCriteriaRule.RecordsetFilterCriteriaRuleNumber" type="SfFieldLabel" value="Número de regla de criterios de filtro de conjunto de registros"/>
+</translations>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ShiftPattern.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="ShiftPattern.CurrencyIsoCode" type="SfFieldLabel" value="Código ISO da moeda"/>
+  <translation key="ShiftPattern.Id" type="SfFieldLabel" value="ID do padrão de turnos"/>
+  <translation key="ShiftPattern.IsActive" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="ShiftPattern.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="ShiftPattern.Name" type="SfFieldLabel" value="Nome do padrão de turnos"/>
+  <translation key="ShiftPattern.Owner" type="SfFieldLabel" value="Nome do proprietário"/>
+</translations>

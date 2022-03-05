@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ProductServiceCampaign.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="ProductServiceCampaign.Id" type="SfFieldLabel" value="ID van productservicecampagne"/>
+  <translation key="ProductServiceCampaign.Owner" type="SfFieldLabel" value="Eigenaarnaam"/>
+  <translation key="ProductServiceCampaign.Product2Id" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="ProductServiceCampaign.ProductServiceCampaignName" type="SfFieldLabel" value="Naam van productservicecampagne"/>
+  <translation key="ProductServiceCampaign.WorkTypeId" type="SfFieldLabel" value="{WorkType}.{SfObject.Label}"/>
+</translations>

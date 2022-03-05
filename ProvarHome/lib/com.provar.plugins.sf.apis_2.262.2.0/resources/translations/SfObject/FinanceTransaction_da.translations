@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="FinanceTransaction.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="FinanceTransaction.DueDate" type="SfFieldLabel" value="Forfaldsdato"/>
+  <translation key="FinanceTransaction.Id" type="SfFieldLabel" value="Id for økonomisk transaktion"/>
+  <translation key="FinanceTransaction.Owner" type="SfFieldLabel" value="Ejers navn"/>
+</translations>

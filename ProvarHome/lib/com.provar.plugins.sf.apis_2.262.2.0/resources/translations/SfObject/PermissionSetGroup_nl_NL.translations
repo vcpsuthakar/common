@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PermissionSetGroup.DeveloperName" type="SfFieldLabel" value="API-naam"/>
+  <translation key="PermissionSetGroup.Id" type="SfFieldLabel" value="ID van PermissionSetGroup"/>
+  <translation key="PermissionSetGroup.Language" type="SfFieldLabel" value="Hoofdtaal"/>
+  <translation key="PermissionSetGroup.MasterLabel" type="SfFieldLabel" value="Label"/>
+</translations>

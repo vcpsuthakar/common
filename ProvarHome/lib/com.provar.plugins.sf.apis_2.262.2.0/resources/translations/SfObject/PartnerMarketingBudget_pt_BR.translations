@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PartnerMarketingBudget.ChannelPartnerId" type="SfFieldLabel" value="Parceiro de canal"/>
+  <translation key="PartnerMarketingBudget.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="PartnerMarketingBudget.CurrencyIsoCode" type="SfFieldLabel" value="Código ISO da moeda"/>
+  <translation key="PartnerMarketingBudget.Id" type="SfFieldLabel" value="ID do orçamento de marketing do parceiro"/>
+  <translation key="PartnerMarketingBudget.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="PartnerMarketingBudget.Owner" type="SfFieldLabel" value="Proprietário"/>
+  <translation key="PartnerMarketingBudget.Title" type="SfFieldLabel" value="Nome do orçamento de marketing do parceiro"/>
+  <translation key="PartnerMarketingBudget.Type" type="SfFieldLabel" value="Tipo de orçamento"/>
+</translations>

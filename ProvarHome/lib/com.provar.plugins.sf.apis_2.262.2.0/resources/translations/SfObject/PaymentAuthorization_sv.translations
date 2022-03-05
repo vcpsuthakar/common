@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PaymentAuthorization.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="PaymentAuthorization.Comments" type="SfFieldLabel" value="Kommentarer"/>
+  <translation key="PaymentAuthorization.Email" type="SfFieldLabel" value="E-post för granskning"/>
+  <translation key="PaymentAuthorization.Id" type="SfFieldLabel" value="ID för betalningsauktorisering"/>
+  <translation key="PaymentAuthorization.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="PaymentAuthorization.PaymentAuthorizationNumber" type="SfFieldLabel" value="Nummer för betalningsauktorisering"/>
+</translations>

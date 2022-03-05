@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="FlowInterviewLogEntry.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="FlowInterviewLogEntry.Id" type="SfFieldLabel" value="ID van ingang van stroominteractielogboek"/>
+  <translation key="FlowInterviewLogEntry.Name" type="SfFieldLabel" value="Naam"/>
+</translations>

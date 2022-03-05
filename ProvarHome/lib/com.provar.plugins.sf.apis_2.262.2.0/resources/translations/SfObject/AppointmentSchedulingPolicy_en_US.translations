@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AppointmentSchedulingPolicy.Id" type="SfFieldLabel" value="Appointment Scheduling Policy ID"/>
+  <translation key="AppointmentSchedulingPolicy.Language" type="SfFieldLabel" value="Master Language"/>
+  <translation key="AppointmentSchedulingPolicy.MasterLabel" type="SfFieldLabel" value="Name"/>
+</translations>

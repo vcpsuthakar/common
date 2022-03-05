@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AssetStatePeriod.AssetId" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="AssetStatePeriod.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="AssetStatePeriod.Id" type="SfFieldLabel" value="ID van periode van activumstatus"/>
+</translations>

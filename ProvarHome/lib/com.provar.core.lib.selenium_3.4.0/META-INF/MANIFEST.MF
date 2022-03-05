@@ -1,10 +1,5 @@
 Manifest-Version: 1.0
 Bundle-SymbolicName: com.provar.core.lib.selenium
-Archiver-Version: Plexus Archiver
-Built-By: ProvarDev
-Require-Bundle: javax.xml;bundle-version="1.3.4"
-Bundle-ManifestVersion: 2
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Export-Package: com.beust.jcommander,com.beust.jcommander.converters,c
  om.beust.jcommander.defaultprovider,com.beust.jcommander.internal,com
  .beust.jcommander.validators,com.gargoylesoftware.htmlunit,com.gargoy
@@ -206,53 +201,56 @@ Export-Package: com.beust.jcommander,com.beust.jcommander.converters,c
  ium.internal,org.openqa.selenium.io,org.openqa.selenium.logging,org.o
  penqa.selenium.logging.profiler,org.openqa.selenium.mobile,org.openqa
  .selenium.net,org.openqa.selenium.opera,org.openqa.selenium.os,org.op
- enqa.selenium.phantomjs,org.openqa.selenium.remote,org.openqa.seleniu
- m.remote.html5,org.openqa.selenium.remote.http,org.openqa.selenium.re
- mote.internal,org.openqa.selenium.remote.mobile,org.openqa.selenium.r
- emote.server,org.openqa.selenium.remote.server.handler,org.openqa.sel
- enium.remote.server.handler.html5,org.openqa.selenium.remote.server.h
- andler.interactions,org.openqa.selenium.remote.server.handler.interac
- tions.touch,org.openqa.selenium.remote.server.handler.internal,org.op
- enqa.selenium.remote.server.handler.mobile,org.openqa.selenium.remote
- .server.log,org.openqa.selenium.remote.server.rest,org.openqa.seleniu
- m.remote.server.xdrpc,org.openqa.selenium.remote.service,org.openqa.s
- elenium.safari,org.openqa.selenium.security,org.openqa.selenium.suppo
- rt,org.openqa.selenium.support.events,org.openqa.selenium.support.eve
- nts.internal,org.openqa.selenium.support.pagefactory,org.openqa.selen
- ium.support.pagefactory.internal,org.openqa.selenium.support.ui,org.s
- eleniumhq.jetty9.continuation,org.seleniumhq.jetty9.http,org.selenium
- hq.jetty9.http.pathmap,org.seleniumhq.jetty9.io,org.seleniumhq.jetty9
- .io.ssl,org.seleniumhq.jetty9.jmx,org.seleniumhq.jetty9.security,org.
- seleniumhq.jetty9.security.authentication,org.seleniumhq.jetty9.serve
- r,org.seleniumhq.jetty9.server.handler,org.seleniumhq.jetty9.server.h
- andler.gzip,org.seleniumhq.jetty9.server.handler.jmx,org.seleniumhq.j
- etty9.server.jmx,org.seleniumhq.jetty9.server.nio,org.seleniumhq.jett
- y9.server.session,org.seleniumhq.jetty9.servlet,org.seleniumhq.jetty9
- .servlet.jmx,org.seleniumhq.jetty9.servlet.listener,org.seleniumhq.je
- tty9.servlets,org.seleniumhq.jetty9.util,org.seleniumhq.jetty9.util.a
- nnotation,org.seleniumhq.jetty9.util.component,org.seleniumhq.jetty9.
- util.log,org.seleniumhq.jetty9.util.log.jmx,org.seleniumhq.jetty9.uti
- l.preventers,org.seleniumhq.jetty9.util.resource,org.seleniumhq.jetty
- 9.util.security,org.seleniumhq.jetty9.util.ssl,org.seleniumhq.jetty9.
- util.statistic,org.seleniumhq.jetty9.util.thread,org.seleniumhq.jetty
- 9.util.thread.strategy,org.w3c.css.sac,org.w3c.css.sac.helpers,org.w3
- c.dom,org.w3c.dom.bootstrap,org.w3c.dom.css,org.w3c.dom.events,org.w3
- c.dom.html,org.w3c.dom.ls,org.w3c.dom.ranges,org.w3c.dom.stylesheets,
- org.w3c.dom.traversal,org.w3c.dom.views,org.w3c.dom.xpath,org.xml.sax
- ,org.xml.sax.ext,org.xml.sax.helpers,org.yaml.snakeyaml,org.yaml.snak
- eyaml.composer,org.yaml.snakeyaml.constructor,org.yaml.snakeyaml.emit
- ter,org.yaml.snakeyaml.error,org.yaml.snakeyaml.events,org.yaml.snake
- yaml.extensions.compactnotation,org.yaml.snakeyaml.external.biz.base6
- 4Coder,org.yaml.snakeyaml.external.com.google.gdata.util.common.base,
- org.yaml.snakeyaml.introspector,org.yaml.snakeyaml.nodes,org.yaml.sna
- keyaml.parser,org.yaml.snakeyaml.reader,org.yaml.snakeyaml.represente
- r,org.yaml.snakeyaml.resolver,org.yaml.snakeyaml.scanner,org.yaml.sna
- keyaml.serializer,org.yaml.snakeyaml.tokens,org.yaml.snakeyaml.util
+ enqa.selenium.remote,org.openqa.selenium.remote.html5,org.openqa.sele
+ nium.remote.http,org.openqa.selenium.remote.internal,org.openqa.selen
+ ium.remote.mobile,org.openqa.selenium.remote.server,org.openqa.seleni
+ um.remote.server.handler,org.openqa.selenium.remote.server.handler.ht
+ ml5,org.openqa.selenium.remote.server.handler.interactions,org.openqa
+ .selenium.remote.server.handler.interactions.touch,org.openqa.seleniu
+ m.remote.server.handler.internal,org.openqa.selenium.remote.server.ha
+ ndler.mobile,org.openqa.selenium.remote.server.log,org.openqa.seleniu
+ m.remote.server.rest,org.openqa.selenium.remote.server.xdrpc,org.open
+ qa.selenium.remote.service,org.openqa.selenium.safari,org.openqa.sele
+ nium.security,org.openqa.selenium.support,org.openqa.selenium.support
+ .events,org.openqa.selenium.support.events.internal,org.openqa.seleni
+ um.support.pagefactory,org.openqa.selenium.support.pagefactory.intern
+ al,org.openqa.selenium.support.ui,org.seleniumhq.jetty9.continuation,
+ org.seleniumhq.jetty9.http,org.seleniumhq.jetty9.http.pathmap,org.sel
+ eniumhq.jetty9.io,org.seleniumhq.jetty9.io.ssl,org.seleniumhq.jetty9.
+ jmx,org.seleniumhq.jetty9.security,org.seleniumhq.jetty9.security.aut
+ hentication,org.seleniumhq.jetty9.server,org.seleniumhq.jetty9.server
+ .handler,org.seleniumhq.jetty9.server.handler.gzip,org.seleniumhq.jet
+ ty9.server.handler.jmx,org.seleniumhq.jetty9.server.jmx,org.seleniumh
+ q.jetty9.server.nio,org.seleniumhq.jetty9.server.session,org.selenium
+ hq.jetty9.servlet,org.seleniumhq.jetty9.servlet.jmx,org.seleniumhq.je
+ tty9.servlet.listener,org.seleniumhq.jetty9.servlets,org.seleniumhq.j
+ etty9.util,org.seleniumhq.jetty9.util.annotation,org.seleniumhq.jetty
+ 9.util.component,org.seleniumhq.jetty9.util.log,org.seleniumhq.jetty9
+ .util.log.jmx,org.seleniumhq.jetty9.util.preventers,org.seleniumhq.je
+ tty9.util.resource,org.seleniumhq.jetty9.util.security,org.seleniumhq
+ .jetty9.util.ssl,org.seleniumhq.jetty9.util.statistic,org.seleniumhq.
+ jetty9.util.thread,org.seleniumhq.jetty9.util.thread.strategy,org.w3c
+ .css.sac,org.w3c.css.sac.helpers,org.w3c.dom,org.w3c.dom.bootstrap,or
+ g.w3c.dom.css,org.w3c.dom.events,org.w3c.dom.html,org.w3c.dom.ls,org.
+ w3c.dom.ranges,org.w3c.dom.stylesheets,org.w3c.dom.traversal,org.w3c.
+ dom.views,org.w3c.dom.xpath,org.xml.sax,org.xml.sax.ext,org.xml.sax.h
+ elpers,org.yaml.snakeyaml,org.yaml.snakeyaml.composer,org.yaml.snakey
+ aml.constructor,org.yaml.snakeyaml.emitter,org.yaml.snakeyaml.error,o
+ rg.yaml.snakeyaml.events,org.yaml.snakeyaml.extensions.compactnotatio
+ n,org.yaml.snakeyaml.external.biz.base64Coder,org.yaml.snakeyaml.exte
+ rnal.com.google.gdata.util.common.base,org.yaml.snakeyaml.introspecto
+ r,org.yaml.snakeyaml.nodes,org.yaml.snakeyaml.parser,org.yaml.snakeya
+ ml.reader,org.yaml.snakeyaml.representer,org.yaml.snakeyaml.resolver,
+ org.yaml.snakeyaml.scanner,org.yaml.snakeyaml.serializer,org.yaml.sna
+ keyaml.tokens,org.yaml.snakeyaml.util
 Bundle-Name: com.provar.core.lib.selenium
 Bundle-Version: 3.4.0
 Bundle-ClassPath: selenium-server-standalone-3.4.0.jar,java-client-5.0
  .0-BETA8.jar
-Created-By: Apache Maven 3.3.9
-Build-Jdk: 1.8.0_171
+Require-Bundle: javax.xml;bundle-version="1.3.4"
+Bundle-ManifestVersion: 2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Build-Jdk-Spec: 1.8
+Created-By: Maven Archiver 3.5.0
 Eclipse-BundleShape: dir
 

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="BriefcaseAssignment.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="BriefcaseAssignment.Id" type="SfFieldLabel" value="ID van toewijzing van werkmap"/>
+</translations>

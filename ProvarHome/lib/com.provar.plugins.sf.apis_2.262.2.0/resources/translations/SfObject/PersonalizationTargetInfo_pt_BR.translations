@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PersonalizationTargetInfo.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="PersonalizationTargetInfo.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="PersonalizationTargetInfo.DraftRowId" type="SfFieldLabel" value="Da Informação de destino de personalização"/>
+  <translation key="PersonalizationTargetInfo.Id" type="SfFieldLabel" value="ID da Informação de destino de personalização"/>
+  <translation key="PersonalizationTargetInfo.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="PersonalizationTargetInfo.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+</translations>

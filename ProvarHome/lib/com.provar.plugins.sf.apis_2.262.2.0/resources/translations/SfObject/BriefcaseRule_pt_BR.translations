@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="BriefcaseRule.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="BriefcaseRule.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="BriefcaseRule.Id" type="SfFieldLabel" value="ID de Regra de porta-arquivos"/>
+  <translation key="BriefcaseRule.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="BriefcaseRule.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+</translations>

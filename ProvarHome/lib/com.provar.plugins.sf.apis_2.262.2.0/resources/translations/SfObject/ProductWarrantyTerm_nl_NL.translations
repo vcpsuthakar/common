@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ProductWarrantyTerm.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="ProductWarrantyTerm.Id" type="SfFieldLabel" value="ID van garantievoorwaarden voor product"/>
+  <translation key="ProductWarrantyTerm.ProductWarrantyTermNumber" type="SfFieldLabel" value="Nummer van garantievoorwaarden voor product"/>
+</translations>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="FinanceTransaction.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="FinanceTransaction.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="FinanceTransaction.CurrencyIsoCode" type="SfFieldLabel" value="Código ISO da moeda"/>
+  <translation key="FinanceTransaction.Id" type="SfFieldLabel" value="ID de transação financeira"/>
+  <translation key="FinanceTransaction.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="FinanceTransaction.Owner" type="SfFieldLabel" value="Nome do proprietário"/>
+</translations>

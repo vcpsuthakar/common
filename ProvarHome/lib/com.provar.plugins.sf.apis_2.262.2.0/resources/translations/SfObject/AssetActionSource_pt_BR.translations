@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AssetActionSource.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="AssetActionSource.CurrencyIsoCode" type="SfFieldLabel" value="Código ISO da moeda"/>
+  <translation key="AssetActionSource.Id" type="SfFieldLabel" value="ID da Origem da ação do ativo"/>
+  <translation key="AssetActionSource.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+</translations>

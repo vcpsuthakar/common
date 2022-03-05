@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MessagingDeliveryError.CreatedDate" type="SfFieldLabel" value="Fecha"/>
+  <translation key="MessagingDeliveryError.FailureReason" type="SfFieldLabel" value="Error"/>
+  <translation key="MessagingDeliveryError.Id" type="SfFieldLabel" value="Id. de registro"/>
+  <translation key="MessagingDeliveryError.LastModifiedById" type="SfFieldLabel" value="Última modificación realizada por"/>
+  <translation key="MessagingDeliveryError.MessagingChannelId" type="SfFieldLabel" value="Canal de mensajería"/>
+  <translation key="MessagingDeliveryError.MessagingEndUserId" type="SfFieldLabel" value="Usuario de mensajería"/>
+  <translation key="MessagingDeliveryError.Name" type="SfFieldLabel" value="Nombre de error de entrega de mensajería"/>
+</translations>

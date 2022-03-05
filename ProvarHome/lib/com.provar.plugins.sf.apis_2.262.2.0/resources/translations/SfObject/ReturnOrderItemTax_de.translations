@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ReturnOrderItemTax.Id" type="SfFieldLabel" value="ID der Rückgabeauftragsposten-Steuer"/>
+  <translation key="ReturnOrderItemTax.ReturnOrderId" type="SfFieldLabel" value="{ReturnOrder}.{SfObject.Label}"/>
+  <translation key="ReturnOrderItemTax.ReturnOrderLineItemId" type="SfFieldLabel" value="{ReturnOrderLineItem}.{SfObject.Label}"/>
+</translations>

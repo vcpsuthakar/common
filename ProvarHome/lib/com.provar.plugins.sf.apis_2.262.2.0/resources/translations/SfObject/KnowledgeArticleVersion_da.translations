@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="KnowledgeArticleVersion.ArchivedById" type="SfFieldLabel" value="Arkiveret af"/>
+  <translation key="KnowledgeArticleVersion.Id" type="SfFieldLabel" value="Versions-id for vidensartikel"/>
+  <translation key="KnowledgeArticleVersion.IsDeleted" type="SfFieldLabel" value="Er slettet"/>
+  <translation key="KnowledgeArticleVersion.Language" type="SfFieldLabel" value="Sprog"/>
+  <translation key="KnowledgeArticleVersion.Owner" type="SfFieldLabel" value="Ejer"/>
+  <translation key="KnowledgeArticleVersion.PublishStatus" type="SfFieldLabel" value="Udgivelsesstatus"/>
+</translations>

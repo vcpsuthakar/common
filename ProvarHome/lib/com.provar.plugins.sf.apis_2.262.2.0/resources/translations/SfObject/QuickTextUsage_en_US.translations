@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="QuickTextUsage.CurrencyIsoCode" type="SfFieldLabel" value="Currency ISO Code"/>
+  <translation key="QuickTextUsage.Id" type="SfFieldLabel" value="Quick Text Usage ID"/>
+  <translation key="QuickTextUsage.Name" type="SfFieldLabel" value="Quick Text Usage Name"/>
+  <translation key="QuickTextUsage.Owner" type="SfFieldLabel" value="Owner Name"/>
+  <translation key="QuickTextUsage.QuickTextId" type="SfFieldLabel" value="{QuickText}.{SfObject.Label}"/>
+</translations>

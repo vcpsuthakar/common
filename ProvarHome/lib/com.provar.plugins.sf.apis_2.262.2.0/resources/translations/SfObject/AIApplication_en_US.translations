@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AIApplication.DeveloperName" type="SfFieldLabel" value="Name"/>
+  <translation key="AIApplication.Id" type="SfFieldLabel" value="AI Application ID"/>
+  <translation key="AIApplication.Language" type="SfFieldLabel" value="Master Language"/>
+  <translation key="AIApplication.MasterLabel" type="SfFieldLabel" value="Label"/>
+  <translation key="AIApplication.Type" type="SfFieldLabel" value="App Type"/>
+</translations>

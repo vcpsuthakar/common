@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AssetActionSource.Id" type="SfFieldLabel" value="ID för källa för tillgångsåtgärd"/>
+  <translation key="AssetActionSource.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+</translations>

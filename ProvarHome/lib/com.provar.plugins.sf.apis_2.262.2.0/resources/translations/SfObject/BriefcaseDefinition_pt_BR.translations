@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="BriefcaseDefinition.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="BriefcaseDefinition.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="BriefcaseDefinition.Id" type="SfFieldLabel" value="ID de Definição de porta-arquivos"/>
+  <translation key="BriefcaseDefinition.IsActive" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="BriefcaseDefinition.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="BriefcaseDefinition.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+</translations>

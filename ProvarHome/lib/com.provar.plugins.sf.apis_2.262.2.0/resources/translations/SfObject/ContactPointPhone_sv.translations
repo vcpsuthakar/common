@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ContactPointPhone.Id" type="SfFieldLabel" value="ID för kontaktpunktstelefon"/>
+  <translation key="ContactPointPhone.IsPrimary" type="SfFieldLabel" value="Är primär"/>
+  <translation key="ContactPointPhone.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="ContactPointPhone.Name" type="SfFieldLabel" value="Namn"/>
+  <translation key="ContactPointPhone.Owner" type="SfFieldLabel" value="Ägarens namn"/>
+  <translation key="ContactPointPhone.ParentId" type="SfFieldLabel" value="Överordnad"/>
+</translations>

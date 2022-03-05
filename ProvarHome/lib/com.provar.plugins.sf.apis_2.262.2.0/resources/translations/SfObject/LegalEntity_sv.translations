@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="LegalEntity.Id" type="SfFieldLabel" value="ID för juridisk enhet"/>
+  <translation key="LegalEntity.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="LegalEntity.Name" type="SfFieldLabel" value="Namn"/>
+  <translation key="LegalEntity.Owner" type="SfFieldLabel" value="Ägarens namn"/>
+</translations>

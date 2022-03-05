@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CreditMemo.CreditMemoNumber" type="SfFieldLabel" value="Credit Memo Number"/>
+  <translation key="CreditMemo.Id" type="SfFieldLabel" value="Credit Memo ID"/>
+  <translation key="CreditMemo.Owner" type="SfFieldLabel" value="Owner Name"/>
+</translations>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AssetAction.AssetId" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="AssetAction.Id" type="SfFieldLabel" value="ID der Datenbestandsaktion"/>
+</translations>

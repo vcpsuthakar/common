@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AssetActionSource.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="AssetActionSource.Id" type="SfFieldLabel" value="ID de source de l'action d'actif"/>
+  <translation key="AssetActionSource.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+</translations>

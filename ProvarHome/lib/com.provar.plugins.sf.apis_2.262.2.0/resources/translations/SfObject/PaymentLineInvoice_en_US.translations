@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PaymentLineInvoice.AssociatedPaymentLineId" type="SfFieldLabel" value="Associated Payment Line Invoice"/>
+  <translation key="PaymentLineInvoice.Comments" type="SfFieldLabel" value="Comments"/>
+  <translation key="PaymentLineInvoice.Id" type="SfFieldLabel" value="Payment Line Invoice ID"/>
+  <translation key="PaymentLineInvoice.PaymentLineInvoiceNumber" type="SfFieldLabel" value="Payment Line Invoice Number"/>
+</translations>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MessagingDeliveryError.CreatedDate" type="SfFieldLabel" value="Date"/>
+  <translation key="MessagingDeliveryError.FailureReason" type="SfFieldLabel" value="Error"/>
+  <translation key="MessagingDeliveryError.Id" type="SfFieldLabel" value="Record ID"/>
+  <translation key="MessagingDeliveryError.Name" type="SfFieldLabel" value="Messaging Delivery Error Name"/>
+</translations>

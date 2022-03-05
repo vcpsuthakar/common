@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AIInsightReason.Id" type="SfFieldLabel" value="AI Insight Reason ID"/>
+  <translation key="AIInsightReason.Name" type="SfFieldLabel" value="Name"/>
+  <translation key="AIInsightReason.RelatedInsightReasonId" type="SfFieldLabel" value="AI Insight Reason"/>
+</translations>

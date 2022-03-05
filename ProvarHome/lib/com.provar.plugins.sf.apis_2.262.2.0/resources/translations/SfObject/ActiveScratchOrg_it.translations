@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ActiveScratchOrg.CreatedById" type="SfFieldLabel" value="Creata da"/>
+  <translation key="ActiveScratchOrg.Id" type="SfFieldLabel" value="ID organizzazione vuota attiva"/>
+  <translation key="ActiveScratchOrg.LastLoginDate" type="SfFieldLabel" value="Data ultimo accesso"/>
+  <translation key="ActiveScratchOrg.Name" type="SfFieldLabel" value="Numero"/>
+  <translation key="ActiveScratchOrg.Owner" type="SfFieldLabel" value="Nome titolare"/>
+</translations>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="BulkApiResultEventStore.EventIdentifier" type="SfFieldLabel" value="Eventidentifier"/>
+  <translation key="BulkApiResultEventStore.Id" type="SfFieldLabel" value="ID van opslagbewerking voor bulk-API-resultaatevent"/>
+  <translation key="BulkApiResultEventStore.PolicyId" type="SfFieldLabel" value="Transactiebeveiligingsbeleids"/>
+  <translation key="BulkApiResultEventStore.SourceIp" type="SfFieldLabel" value="Bron-IP"/>
+</translations>

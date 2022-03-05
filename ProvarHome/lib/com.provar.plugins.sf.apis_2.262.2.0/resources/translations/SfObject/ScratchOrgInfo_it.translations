@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ScratchOrgInfo.Country" type="SfFieldLabel" value="Paese richiesto"/>
+  <translation key="ScratchOrgInfo.Id" type="SfFieldLabel" value="ID info organizzazione vuota"/>
+  <translation key="ScratchOrgInfo.Language" type="SfFieldLabel" value="Lingua richiesta"/>
+  <translation key="ScratchOrgInfo.LastLoginDate" type="SfFieldLabel" value="Data ultimo accesso"/>
+  <translation key="ScratchOrgInfo.Name" type="SfFieldLabel" value="Numero"/>
+  <translation key="ScratchOrgInfo.Owner" type="SfFieldLabel" value="Nome titolare"/>
+  <translation key="ScratchOrgInfo.SignupEmail" type="SfFieldLabel" value="Email di registrazione"/>
+  <translation key="ScratchOrgInfo.SignupInstance" type="SfFieldLabel" value="Istanza di registrazione"/>
+  <translation key="ScratchOrgInfo.SignupTrialDays" type="SfFieldLabel" value="Giorni di prova di registrazione"/>
+  <translation key="ScratchOrgInfo.SignupUsername" type="SfFieldLabel" value="Nome utente di registrazione"/>
+</translations>

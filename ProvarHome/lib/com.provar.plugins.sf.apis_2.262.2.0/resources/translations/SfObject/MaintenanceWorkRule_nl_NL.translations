@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MaintenanceWorkRule.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="MaintenanceWorkRule.Id" type="SfFieldLabel" value="ID van regel voor onderhoudswerk"/>
+  <translation key="MaintenanceWorkRule.Name" type="SfFieldLabel" value="Naam van regel voor onderhoudswerk"/>
+  <translation key="MaintenanceWorkRule.Owner" type="SfFieldLabel" value="Eigenaarnaam"/>
+  <translation key="MaintenanceWorkRule.SortOrder" type="SfFieldLabel" value="Sorteervolgorde"/>
+  <translation key="MaintenanceWorkRule.Title" type="SfFieldLabel" value="Titel van regel voor onderhoudswerk"/>
+  <translation key="MaintenanceWorkRule.WorkTypeId" type="SfFieldLabel" value="{WorkType}.{SfObject.Label}"/>
+</translations>

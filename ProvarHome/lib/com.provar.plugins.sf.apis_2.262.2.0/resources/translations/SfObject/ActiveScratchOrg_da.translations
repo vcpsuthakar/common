@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ActiveScratchOrg.Id" type="SfFieldLabel" value="Id for aktiv scratch-organisation"/>
+  <translation key="ActiveScratchOrg.LastLoginDate" type="SfFieldLabel" value="Sidste logindato"/>
+  <translation key="ActiveScratchOrg.Name" type="SfFieldLabel" value="Antal"/>
+  <translation key="ActiveScratchOrg.Owner" type="SfFieldLabel" value="Ejers navn"/>
+</translations>

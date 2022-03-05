@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Payment.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="Payment.Comments" type="SfFieldLabel" value="Opmerkingen"/>
+  <translation key="Payment.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="Payment.Email" type="SfFieldLabel" value="E-mail controleren"/>
+  <translation key="Payment.GatewayResultCode" type="SfFieldLabel" value="ResultCode van gateway"/>
+  <translation key="Payment.GatewayResultCodeDescription" type="SfFieldLabel" value="Beschrijving van ResultCode van gateway"/>
+  <translation key="Payment.Id" type="SfFieldLabel" value="Betalings-ID"/>
+  <translation key="Payment.PaymentAuthorizationId" type="SfFieldLabel" value="Betalingsautorisatie"/>
+  <translation key="Payment.PaymentGroupId" type="SfFieldLabel" value="Betalingsgroep"/>
+  <translation key="Payment.PaymentMethodId" type="SfFieldLabel" value="Betalingswijze"/>
+  <translation key="Payment.PaymentNumber" type="SfFieldLabel" value="Betalingsnummer"/>
+  <translation key="Payment.SfResultCode" type="SfFieldLabel" value="Salesforce-ResultCode"/>
+</translations>

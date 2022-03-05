@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ProcessException.CaseId" type="SfFieldLabel" value="{Case}.{SfObject.Label}"/>
+  <translation key="ProcessException.Id" type="SfFieldLabel" value="Id. de Excepción de proceso"/>
+  <translation key="ProcessException.Owner" type="SfFieldLabel" value="Nombre completo del propietario"/>
+  <translation key="ProcessException.ProcessExceptionNumber" type="SfFieldLabel" value="Número de Excepción de proceso"/>
+</translations>

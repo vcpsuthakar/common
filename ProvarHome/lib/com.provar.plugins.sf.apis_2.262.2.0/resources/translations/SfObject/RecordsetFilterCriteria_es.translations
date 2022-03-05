@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="RecordsetFilterCriteria.Id" type="SfFieldLabel" value="Id. de Criterios de filtro de conjunto de registros"/>
+  <translation key="RecordsetFilterCriteria.IsActive" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="RecordsetFilterCriteria.Name" type="SfFieldLabel" value="Nombre de Criterios de filtro de conjunto de registros"/>
+  <translation key="RecordsetFilterCriteria.Owner" type="SfFieldLabel" value="Nombre completo del propietario"/>
+</translations>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="LegalEntity.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="LegalEntity.Id" type="SfFieldLabel" value="ID van juridische entiteit"/>
+  <translation key="LegalEntity.Name" type="SfFieldLabel" value="Naam"/>
+  <translation key="LegalEntity.Owner" type="SfFieldLabel" value="Eigenaarnaam"/>
+</translations>

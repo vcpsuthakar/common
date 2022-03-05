@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="RefundLinePayment.Comments" type="SfFieldLabel" value="Kommentarer"/>
+  <translation key="RefundLinePayment.Id" type="SfFieldLabel" value="ID för betalning av återbetalningsrad"/>
+  <translation key="RefundLinePayment.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+</translations>

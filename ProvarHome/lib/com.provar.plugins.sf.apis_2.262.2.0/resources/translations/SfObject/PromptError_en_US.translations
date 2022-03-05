@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PromptError.Id" type="SfFieldLabel" value="Prompt Error ID"/>
+  <translation key="PromptError.Name" type="SfFieldLabel" value="Name"/>
+  <translation key="PromptError.Owner" type="SfFieldLabel" value="Owner Name"/>
+  <translation key="PromptError.StepNumber" type="SfFieldLabel" value="Error Step Number"/>
+  <translation key="PromptError.Type" type="SfFieldLabel" value="Error Type"/>
+</translations>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="LegalEntity.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="LegalEntity.CurrencyIsoCode" type="SfFieldLabel" value="Código ISO da moeda"/>
+  <translation key="LegalEntity.Id" type="SfFieldLabel" value="ID da entidade legal"/>
+  <translation key="LegalEntity.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="LegalEntity.Name" type="SfFieldLabel" value="Nome"/>
+  <translation key="LegalEntity.Owner" type="SfFieldLabel" value="Nome do proprietário"/>
+</translations>

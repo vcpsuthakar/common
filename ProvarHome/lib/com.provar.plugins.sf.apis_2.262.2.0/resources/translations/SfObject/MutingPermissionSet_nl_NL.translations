@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MutingPermissionSet.DeveloperName" type="SfFieldLabel" value="Naam van machtigingenset voor negeren"/>
+  <translation key="MutingPermissionSet.Id" type="SfFieldLabel" value="ID van MutingPermissionSet"/>
+  <translation key="MutingPermissionSet.Language" type="SfFieldLabel" value="Hoofdtaal"/>
+  <translation key="MutingPermissionSet.MasterLabel" type="SfFieldLabel" value="Label van machtigingenset voor negeren"/>
+</translations>

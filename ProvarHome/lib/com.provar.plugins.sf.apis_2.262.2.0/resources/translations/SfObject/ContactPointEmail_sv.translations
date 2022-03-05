@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ContactPointEmail.BestTimeToContactStartTime" type="SfFieldLabel" value="Sluttid för bästa tid att kontakta"/>
+  <translation key="ContactPointEmail.Id" type="SfFieldLabel" value="ID för e-postadress för kontaktpunkt"/>
+  <translation key="ContactPointEmail.IsPrimary" type="SfFieldLabel" value="Är primär"/>
+  <translation key="ContactPointEmail.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="ContactPointEmail.Name" type="SfFieldLabel" value="Namn"/>
+  <translation key="ContactPointEmail.Owner" type="SfFieldLabel" value="Ägarens namn"/>
+  <translation key="ContactPointEmail.ParentId" type="SfFieldLabel" value="Överordnad"/>
+</translations>

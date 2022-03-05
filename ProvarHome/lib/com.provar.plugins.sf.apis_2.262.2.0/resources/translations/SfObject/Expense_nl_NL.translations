@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Expense.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="Expense.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="Expense.ExpenseNumber" type="SfFieldLabel" value="Naam van uitgave"/>
+  <translation key="Expense.ExpenseType" type="SfFieldLabel" value="Type uitgave"/>
+  <translation key="Expense.Id" type="SfFieldLabel" value="ID van uitgave"/>
+  <translation key="Expense.Owner" type="SfFieldLabel" value="Eigenaarnaam"/>
+  <translation key="Expense.Title" type="SfFieldLabel" value="Titel"/>
+  <translation key="Expense.WorkOrderId" type="SfFieldLabel" value="{WorkOrder}.{SfObject.Label}"/>
+</translations>

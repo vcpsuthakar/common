@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ContactPointConsent.CaptureContactPointType" type="SfFieldLabel" value="Type aanspreekpunt voor vastleggen"/>
+  <translation key="ContactPointConsent.CaptureDate" type="SfFieldLabel" value="Datum van vastleggen"/>
+  <translation key="ContactPointConsent.CaptureSource" type="SfFieldLabel" value="Bron voor vastleggen"/>
+  <translation key="ContactPointConsent.ContactPointId" type="SfFieldLabel" value="Contactpunt"/>
+  <translation key="ContactPointConsent.DoubleConsentCaptureDate" type="SfFieldLabel" value="Datum van vastleggen van dubbele instemming"/>
+  <translation key="ContactPointConsent.Id" type="SfFieldLabel" value="ID van instemming van aanspraakpunt"/>
+  <translation key="ContactPointConsent.Name" type="SfFieldLabel" value="Naam"/>
+  <translation key="ContactPointConsent.Owner" type="SfFieldLabel" value="Eigenaarnaam"/>
+  <translation key="ContactPointConsent.PrivacyConsentStatus" type="SfFieldLabel" value="Status van instemming voor privacy"/>
+</translations>

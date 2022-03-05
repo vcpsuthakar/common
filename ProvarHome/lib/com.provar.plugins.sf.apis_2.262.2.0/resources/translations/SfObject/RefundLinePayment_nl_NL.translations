@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="RefundLinePayment.Comments" type="SfFieldLabel" value="Opmerkingen"/>
+  <translation key="RefundLinePayment.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="RefundLinePayment.Id" type="SfFieldLabel" value="ID van betaling met restitutieregel(s)"/>
+</translations>

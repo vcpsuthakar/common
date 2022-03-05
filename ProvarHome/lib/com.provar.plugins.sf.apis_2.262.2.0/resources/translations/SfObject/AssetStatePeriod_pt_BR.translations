@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AssetStatePeriod.AssetId" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="AssetStatePeriod.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="AssetStatePeriod.CurrencyIsoCode" type="SfFieldLabel" value="Código ISO da moeda"/>
+  <translation key="AssetStatePeriod.Id" type="SfFieldLabel" value="ID do Período de estado do ativo"/>
+  <translation key="AssetStatePeriod.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+</translations>

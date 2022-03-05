@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CaseTeamRole.AccessLevel" type="SfFieldLabel" value="Case Access"/>
+  <translation key="CaseTeamRole.Id" type="SfFieldLabel" value="Team Role Id"/>
+  <translation key="CaseTeamRole.PreferencesVisibleInCSP" type="SfFieldLabel" value="Visible in Customer Portal"/>
+</translations>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ChannelProgramLevel.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="ChannelProgramLevel.Id" type="SfFieldLabel" value="ID van kanaalprogrammaniveau"/>
+  <translation key="ChannelProgramLevel.Owner" type="SfFieldLabel" value="Eigenaar"/>
+</translations>

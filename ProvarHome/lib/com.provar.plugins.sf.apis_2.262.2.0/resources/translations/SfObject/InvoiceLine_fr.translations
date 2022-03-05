@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="InvoiceLine.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="InvoiceLine.Id" type="SfFieldLabel" value="ID de ligne de facture"/>
+  <translation key="InvoiceLine.InvoiceLineEndDate" type="SfFieldLabel" value="Date de fin de la ligne de facture"/>
+  <translation key="InvoiceLine.InvoiceLineStartDate" type="SfFieldLabel" value="Date de début de la ligne de facture"/>
+  <translation key="InvoiceLine.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="InvoiceLine.Name" type="SfFieldLabel" value="Nom"/>
+  <translation key="InvoiceLine.Product2Id" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+</translations>

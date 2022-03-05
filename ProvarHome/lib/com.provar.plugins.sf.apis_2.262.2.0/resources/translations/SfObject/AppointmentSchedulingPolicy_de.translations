@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AppointmentSchedulingPolicy.CreatedById" type="SfFieldLabel" value="Ersteller"/>
+  <translation key="AppointmentSchedulingPolicy.Id" type="SfFieldLabel" value="Richtlinien-ID für die Terminplanung"/>
+  <translation key="AppointmentSchedulingPolicy.Language" type="SfFieldLabel" value="Master-Sprache"/>
+  <translation key="AppointmentSchedulingPolicy.LastModifiedById" type="SfFieldLabel" value="Für &quot;Zuletzt geändert von&quot;"/>
+  <translation key="AppointmentSchedulingPolicy.MasterLabel" type="SfFieldLabel" value="Name"/>
+</translations>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PortalDelegablePermissionSet.DeveloperName" type="SfFieldLabel" value="Name"/>
+  <translation key="PortalDelegablePermissionSet.Id" type="SfFieldLabel" value="Portal Delegable Permission Set ID"/>
+  <translation key="PortalDelegablePermissionSet.Language" type="SfFieldLabel" value="Master Language"/>
+  <translation key="PortalDelegablePermissionSet.MasterLabel" type="SfFieldLabel" value="Label"/>
+</translations>

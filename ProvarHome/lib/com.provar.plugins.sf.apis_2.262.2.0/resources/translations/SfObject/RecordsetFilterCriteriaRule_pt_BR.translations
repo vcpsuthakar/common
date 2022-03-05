@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="RecordsetFilterCriteriaRule.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="RecordsetFilterCriteriaRule.CurrencyIsoCode" type="SfFieldLabel" value="Código ISO da moeda"/>
+  <translation key="RecordsetFilterCriteriaRule.Id" type="SfFieldLabel" value="ID da regra do critério do filtro do conjunto de registro"/>
+  <translation key="RecordsetFilterCriteriaRule.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+</translations>

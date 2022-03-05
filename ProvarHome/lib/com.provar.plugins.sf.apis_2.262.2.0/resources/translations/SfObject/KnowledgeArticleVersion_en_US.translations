@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="KnowledgeArticleVersion.ArchivedById" type="SfFieldLabel" value="User"/>
+  <translation key="KnowledgeArticleVersion.ArticleArchivedById" type="SfFieldLabel" value="User"/>
+  <translation key="KnowledgeArticleVersion.ArticleCreatedById" type="SfFieldLabel" value="User"/>
+  <translation key="KnowledgeArticleVersion.AssignedById" type="SfFieldLabel" value="User"/>
+  <translation key="KnowledgeArticleVersion.Id" type="SfFieldLabel" value="Knowledge Article Version ID"/>
+  <translation key="KnowledgeArticleVersion.IsDeleted" type="SfFieldLabel" value="Is Deleted"/>
+  <translation key="KnowledgeArticleVersion.Owner" type="SfFieldLabel" value="Owner"/>
+  <translation key="KnowledgeArticleVersion.PublishStatus" type="SfFieldLabel" value="Publication Status"/>
+</translations>

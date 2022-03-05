@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AppUsageAssignment.Id" type="SfFieldLabel" value="Application Usage Assignment ID"/>
+  <translation key="AppUsageAssignment.Name" type="SfFieldLabel" value="Name"/>
+</translations>

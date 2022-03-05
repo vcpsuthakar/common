@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="FieldServiceOrgSettings.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="FieldServiceOrgSettings.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="FieldServiceOrgSettings.Id" type="SfFieldLabel" value="ID da Configuração da organização do serviço de campo"/>
+  <translation key="FieldServiceOrgSettings.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="FieldServiceOrgSettings.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="FieldServiceOrgSettings.MasterLabel" type="SfFieldLabel" value="Rótulo"/>
+</translations>

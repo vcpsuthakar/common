@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ReturnOrderItemAdjustment.Amount" type="SfFieldLabel" value="Ajustement"/>
+  <translation key="ReturnOrderItemAdjustment.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="ReturnOrderItemAdjustment.Id" type="SfFieldLabel" value="ID d'ajustement d'article de commande de retour"/>
+  <translation key="ReturnOrderItemAdjustment.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="ReturnOrderItemAdjustment.ReturnOrderItemAdjustmentNumber" type="SfFieldLabel" value="Numéro d'ajustement d'article de commande de retour"/>
+  <translation key="ReturnOrderItemAdjustment.TotalTaxAmount" type="SfFieldLabel" value="Taxe"/>
+</translations>

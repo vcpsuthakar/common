@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ScratchOrgInfo.Country" type="SfFieldLabel" value="Anmodet land"/>
+  <translation key="ScratchOrgInfo.Id" type="SfFieldLabel" value="Id for Oplysning om scratch-organisation"/>
+  <translation key="ScratchOrgInfo.Language" type="SfFieldLabel" value="Anmodet sprog"/>
+  <translation key="ScratchOrgInfo.LastLoginDate" type="SfFieldLabel" value="Sidste logindato"/>
+  <translation key="ScratchOrgInfo.Name" type="SfFieldLabel" value="Antal"/>
+  <translation key="ScratchOrgInfo.Owner" type="SfFieldLabel" value="Ejers navn"/>
+  <translation key="ScratchOrgInfo.SignupEmail" type="SfFieldLabel" value="Tilmeldingsmail"/>
+  <translation key="ScratchOrgInfo.SignupInstance" type="SfFieldLabel" value="Tilmeldingsforekomst"/>
+  <translation key="ScratchOrgInfo.SignupTrialDays" type="SfFieldLabel" value="Tilmeldingsprøvedage"/>
+  <translation key="ScratchOrgInfo.SignupUsername" type="SfFieldLabel" value="Tilmeldingsbrugernavn"/>
+  <translation key="ScratchOrgInfo.Username" type="SfFieldLabel" value="Anmodet brugernavn"/>
+</translations>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Refund.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="Refund.Comments" type="SfFieldLabel" value="Kommentarer"/>
+  <translation key="Refund.Email" type="SfFieldLabel" value="E-post för granskning"/>
+  <translation key="Refund.GatewayResultCode" type="SfFieldLabel" value="Gateway-ResultCode"/>
+  <translation key="Refund.GatewayResultCodeDescription" type="SfFieldLabel" value="Beskrivning av gateway-ResultCode"/>
+  <translation key="Refund.Id" type="SfFieldLabel" value="ID för återbetalning"/>
+  <translation key="Refund.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="Refund.RefundNumber" type="SfFieldLabel" value="Återbetalningsnummer"/>
+  <translation key="Refund.SfResultCode" type="SfFieldLabel" value="Salesforce-ResultCode"/>
+</translations>

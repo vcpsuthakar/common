@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MessagingDeliveryError.CreatedById" type="SfFieldLabel" value="Ersteller"/>
+  <translation key="MessagingDeliveryError.CreatedDate" type="SfFieldLabel" value="Datum"/>
+  <translation key="MessagingDeliveryError.FailureReason" type="SfFieldLabel" value="Fehler"/>
+  <translation key="MessagingDeliveryError.Id" type="SfFieldLabel" value="Datensatz-ID"/>
+  <translation key="MessagingDeliveryError.LastModifiedById" type="SfFieldLabel" value="Für &quot;Zuletzt geändert von&quot;"/>
+  <translation key="MessagingDeliveryError.Name" type="SfFieldLabel" value="Name des Messaging-Zustellfehlers"/>
+</translations>

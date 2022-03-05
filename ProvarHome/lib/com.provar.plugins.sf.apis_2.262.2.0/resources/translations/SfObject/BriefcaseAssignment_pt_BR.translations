@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="BriefcaseAssignment.CreatedById" type="SfFieldLabel" value="Criado pelo"/>
+  <translation key="BriefcaseAssignment.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="BriefcaseAssignment.CurrencyIsoCode" type="SfFieldLabel" value="Código ISO da moeda"/>
+  <translation key="BriefcaseAssignment.Id" type="SfFieldLabel" value="ID de Atribuição de porta-arquivos"/>
+  <translation key="BriefcaseAssignment.LastModifiedById" type="SfFieldLabel" value="Última modificação pelo"/>
+  <translation key="BriefcaseAssignment.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+</translations>

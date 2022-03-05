@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CaseArticle.CaseId" type="SfFieldLabel" value="Sags-id"/>
+  <translation key="CaseArticle.Id" type="SfFieldLabel" value="Sagsartikel-id"/>
+  <translation key="CaseArticle.KnowledgeArticleId" type="SfFieldLabel" value="Artikel-id"/>
+  <translation key="CaseArticle.KnowledgeArticleVersionId" type="SfFieldLabel" value="Id for knowledge-artikelversion"/>
+</translations>

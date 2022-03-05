@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AssetWarranty.AssetId" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="AssetWarranty.AssetWarrantyNumber" type="SfFieldLabel" value="Nummer van garantie van activum"/>
+  <translation key="AssetWarranty.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="AssetWarranty.Id" type="SfFieldLabel" value="ID van garantie van activum"/>
+  <translation key="AssetWarranty.Pricebook2Id" type="SfFieldLabel" value="{Pricebook2}.{SfObject.Label}"/>
+</translations>

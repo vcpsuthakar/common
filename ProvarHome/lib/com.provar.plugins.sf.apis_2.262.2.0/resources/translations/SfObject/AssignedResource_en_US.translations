@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AssignedResource.AssignedResourceNumber" type="SfFieldLabel" value="Assigned Resource Number"/>
+  <translation key="AssignedResource.EventId" type="SfFieldLabel" value="{Event}.{SfObject.Label}"/>
+  <translation key="AssignedResource.Id" type="SfFieldLabel" value="Assigned Resource ID"/>
+  <translation key="AssignedResource.ServiceAppointmentId" type="SfFieldLabel" value="{ServiceAppointment}.{SfObject.Label}"/>
+  <translation key="AssignedResource.ServiceResourceId" type="SfFieldLabel" value="{ServiceResource}.{SfObject.Label}"/>
+</translations>

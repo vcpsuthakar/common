@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="RedirectWhitelistUrl.DeveloperName" type="SfFieldLabel" value="Naam"/>
+  <translation key="RedirectWhitelistUrl.Id" type="SfFieldLabel" value="Vertrouwde URL voor ID van omleidingen"/>
+  <translation key="RedirectWhitelistUrl.Language" type="SfFieldLabel" value="Hoofdtaal"/>
+  <translation key="RedirectWhitelistUrl.MasterLabel" type="SfFieldLabel" value="Label"/>
+</translations>

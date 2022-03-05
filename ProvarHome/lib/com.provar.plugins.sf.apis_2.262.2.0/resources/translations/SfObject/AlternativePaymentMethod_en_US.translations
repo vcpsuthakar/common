@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AlternativePaymentMethod.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="AlternativePaymentMethod.AlternativePaymentMethodNumber" type="SfFieldLabel" value="Alternative Payment Method Number"/>
+  <translation key="AlternativePaymentMethod.Comments" type="SfFieldLabel" value="Comments"/>
+  <translation key="AlternativePaymentMethod.Email" type="SfFieldLabel" value="Registered Email"/>
+  <translation key="AlternativePaymentMethod.Id" type="SfFieldLabel" value="Alternative Payment Method ID"/>
+  <translation key="AlternativePaymentMethod.Owner" type="SfFieldLabel" value="Owner Name"/>
+</translations>

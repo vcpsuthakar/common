@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ActiveProfileMetric.Id" type="SfFieldLabel" value="Active Profile Metric ID"/>
+</translations>

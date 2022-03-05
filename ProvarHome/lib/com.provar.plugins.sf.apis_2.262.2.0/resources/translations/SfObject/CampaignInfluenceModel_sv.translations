@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CampaignInfluenceModel.DeveloperName" type="SfFieldLabel" value="Unikt namn"/>
+  <translation key="CampaignInfluenceModel.Id" type="SfFieldLabel" value="ID för kampanjpåverkanmodell"/>
+  <translation key="CampaignInfluenceModel.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="CampaignInfluenceModel.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="CampaignInfluenceModel.MasterLabel" type="SfFieldLabel" value="Modellnamn"/>
+</translations>

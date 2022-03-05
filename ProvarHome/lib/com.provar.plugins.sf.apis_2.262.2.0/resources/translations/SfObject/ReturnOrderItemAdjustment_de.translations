@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ReturnOrderItemAdjustment.Amount" type="SfFieldLabel" value="Anpassung"/>
+  <translation key="ReturnOrderItemAdjustment.Id" type="SfFieldLabel" value="ID der Rückgabeauftragsposten-Anpassung"/>
+  <translation key="ReturnOrderItemAdjustment.ReturnOrderId" type="SfFieldLabel" value="{ReturnOrder}.{SfObject.Label}"/>
+  <translation key="ReturnOrderItemAdjustment.ReturnOrderItemAdjustmentNumber" type="SfFieldLabel" value="Nummer der Rückgabeauftragsposten-Anpassung"/>
+  <translation key="ReturnOrderItemAdjustment.ReturnOrderLineItemId" type="SfFieldLabel" value="{ReturnOrderLineItem}.{SfObject.Label}"/>
+  <translation key="ReturnOrderItemAdjustment.TotalTaxAmount" type="SfFieldLabel" value="Steuer"/>
+</translations>

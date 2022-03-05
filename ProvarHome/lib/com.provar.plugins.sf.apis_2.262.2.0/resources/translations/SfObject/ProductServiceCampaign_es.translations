@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ProductServiceCampaign.Id" type="SfFieldLabel" value="Id. de Campaña de servicio de producto"/>
+  <translation key="ProductServiceCampaign.Owner" type="SfFieldLabel" value="Nombre completo del propietario"/>
+  <translation key="ProductServiceCampaign.Product2Id" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="ProductServiceCampaign.ProductServiceCampaignName" type="SfFieldLabel" value="Nombre de campaña de servicio de producto"/>
+  <translation key="ProductServiceCampaign.WorkTypeId" type="SfFieldLabel" value="{WorkType}.{SfObject.Label}"/>
+</translations>

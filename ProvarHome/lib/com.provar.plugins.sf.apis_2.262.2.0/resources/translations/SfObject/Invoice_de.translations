@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Invoice.Id" type="SfFieldLabel" value="Rechnungs-ID"/>
+  <translation key="Invoice.InvoiceDate" type="SfFieldLabel" value="Rechnungsdatum"/>
+  <translation key="Invoice.InvoiceNumber" type="SfFieldLabel" value="Rechnungsnummer"/>
+  <translation key="Invoice.Owner" type="SfFieldLabel" value="Inhabername"/>
+  <translation key="Invoice.TotalAdjustmentAmountWithTax" type="SfFieldLabel" value="Gesamter Anpassungsbetrag einschließlich Steuern"/>
+  <translation key="Invoice.TotalAdjustmentTaxAmount" type="SfFieldLabel" value="Steuerbetrag der Anpassungsgesamtsumme"/>
+  <translation key="Invoice.TotalAmount" type="SfFieldLabel" value="Gesamtbetrag"/>
+  <translation key="Invoice.TotalChargeAmountWithTax" type="SfFieldLabel" value="Gesamtgebührenbetrag einschließlich Steuern"/>
+  <translation key="Invoice.TotalChargeTaxAmount" type="SfFieldLabel" value="Steuerbetrag der Gesamtgebühren"/>
+</translations>

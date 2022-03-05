@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="IPAddressRange.DeveloperName" type="SfFieldLabel" value="Name"/>
+  <translation key="IPAddressRange.Id" type="SfFieldLabel" value="IP Address Range ID"/>
+  <translation key="IPAddressRange.Language" type="SfFieldLabel" value="Master Language"/>
+  <translation key="IPAddressRange.MasterLabel" type="SfFieldLabel" value="Label"/>
+</translations>

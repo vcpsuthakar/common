@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MessagingSession.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="MessagingSession.Id" type="SfFieldLabel" value="ID de session de messagerie"/>
+  <translation key="MessagingSession.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="MessagingSession.MessagingChannelId" type="SfFieldLabel" value="Canal de Messagerie"/>
+  <translation key="MessagingSession.MessagingEndUserId" type="SfFieldLabel" value="Utilisateur de la messagerie"/>
+  <translation key="MessagingSession.Name" type="SfFieldLabel" value="Nom de la session de messagerie"/>
+  <translation key="MessagingSession.OpportunityId" type="SfFieldLabel" value="{Opportunity}.{SfObject.Label}"/>
+  <translation key="MessagingSession.Owner" type="SfFieldLabel" value="Propriétaire de la session"/>
+</translations>

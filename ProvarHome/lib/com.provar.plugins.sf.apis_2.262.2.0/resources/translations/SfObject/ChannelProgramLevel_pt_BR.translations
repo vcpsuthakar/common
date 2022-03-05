@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ChannelProgramLevel.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="ChannelProgramLevel.CurrencyIsoCode" type="SfFieldLabel" value="Código ISO da moeda"/>
+  <translation key="ChannelProgramLevel.Id" type="SfFieldLabel" value="ID do Nível do programa do canal"/>
+  <translation key="ChannelProgramLevel.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="ChannelProgramLevel.Owner" type="SfFieldLabel" value="Proprietário"/>
+</translations>

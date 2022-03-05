@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ContactPointAddress.Address" type="SfFieldLabel" value="{Address}.{SfObject.Label}"/>
+  <translation key="ContactPointAddress.GeocodeAccuracy" type="SfFieldLabel" value="Shipping Geocode Accuracy"/>
+  <translation key="ContactPointAddress.Id" type="SfFieldLabel" value="ID för kontaktpunktsadress"/>
+  <translation key="ContactPointAddress.IsDefault" type="SfFieldLabel" value="Är standardadress"/>
+  <translation key="ContactPointAddress.IsPrimary" type="SfFieldLabel" value="Är primär"/>
+  <translation key="ContactPointAddress.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="ContactPointAddress.Name" type="SfFieldLabel" value="Namn"/>
+  <translation key="ContactPointAddress.Owner" type="SfFieldLabel" value="Ägarens namn"/>
+  <translation key="ContactPointAddress.ParentId" type="SfFieldLabel" value="Överordnad"/>
+  <translation key="ContactPointAddress.Street" type="SfFieldLabel" value="{Address}.{SfObject.Label}"/>
+  <translation key="ContactPointAddress.Zip" type="SfFieldLabel" value="Postnummer"/>
+</translations>

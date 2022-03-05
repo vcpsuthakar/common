@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AssetDowntimePeriod.AssetDowntimePeriodNumber" type="SfFieldLabel" value="Nummer van uitvalperiode van activum"/>
+  <translation key="AssetDowntimePeriod.AssetId" type="SfFieldLabel" value="{Asset}.{SfObject.Label}"/>
+  <translation key="AssetDowntimePeriod.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="AssetDowntimePeriod.EndTime" type="SfFieldLabel" value="Einddatum"/>
+  <translation key="AssetDowntimePeriod.Id" type="SfFieldLabel" value="ID van uitvalperiode van activum"/>
+  <translation key="AssetDowntimePeriod.StartTime" type="SfFieldLabel" value="Begindatum"/>
+</translations>

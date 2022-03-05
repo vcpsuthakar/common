@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ServiceTerritoryWorkType.Id" type="SfFieldLabel" value="Service Territory Work Type ID"/>
+  <translation key="ServiceTerritoryWorkType.Name" type="SfFieldLabel" value="Service Territory Work Type Name"/>
+  <translation key="ServiceTerritoryWorkType.ServiceTerritoryId" type="SfFieldLabel" value="{ServiceTerritory}.{SfObject.Label}"/>
+  <translation key="ServiceTerritoryWorkType.WorkTypeId" type="SfFieldLabel" value="{WorkType}.{SfObject.Label}"/>
+</translations>

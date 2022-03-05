@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ProcessException.CaseId" type="SfFieldLabel" value="{Case}.{SfObject.Label}"/>
+  <translation key="ProcessException.Id" type="SfFieldLabel" value="ID för processundantag"/>
+  <translation key="ProcessException.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="ProcessException.Owner" type="SfFieldLabel" value="Ägarens namn"/>
+  <translation key="ProcessException.ProcessExceptionNumber" type="SfFieldLabel" value="Nummer för processundantag"/>
+</translations>

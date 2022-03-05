@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Knowledge__kav.ArchivedById" type="SfFieldLabel" value="Archiviato da"/>
+  <translation key="Knowledge__kav.Id" type="SfFieldLabel" value="ID versione articolo Knowledge"/>
+  <translation key="Knowledge__kav.IsDeleted" type="SfFieldLabel" value="È eliminato"/>
+  <translation key="Knowledge__kav.IsVisibleInPkb" type="SfFieldLabel" value="Visibile in Public Knowledge Base"/>
+  <translation key="Knowledge__kav.KnowledgeArticleId" type="SfFieldLabel" value="Articolo Knowledge"/>
+  <translation key="Knowledge__kav.LastModifiedById" type="SfFieldLabel" value="Autore ultima modifica"/>
+  <translation key="Knowledge__kav.Owner" type="SfFieldLabel" value="Titolare"/>
+</translations>

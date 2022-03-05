@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="DelegatedAccount.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="DelegatedAccount.Id" type="SfFieldLabel" value="ID de Conta gerenciada externa"/>
+  <translation key="DelegatedAccount.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="DelegatedAccount.Name" type="SfFieldLabel" value="Nome"/>
+  <translation key="DelegatedAccount.Owner" type="SfFieldLabel" value="Proprietário"/>
+  <translation key="DelegatedAccount.ParentId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+</translations>

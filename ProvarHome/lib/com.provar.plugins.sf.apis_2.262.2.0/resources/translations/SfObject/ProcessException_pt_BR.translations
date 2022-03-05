@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ProcessException.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="ProcessException.CurrencyIsoCode" type="SfFieldLabel" value="Código ISO da moeda"/>
+  <translation key="ProcessException.Id" type="SfFieldLabel" value="ID da exceção de processo"/>
+  <translation key="ProcessException.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="ProcessException.Owner" type="SfFieldLabel" value="Nome do proprietário"/>
+  <translation key="ProcessException.ProcessExceptionNumber" type="SfFieldLabel" value="Número da Exceção de processo"/>
+</translations>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AIInsightFeedback.AiFeedback" type="SfFieldLabel" value="AI Insight Feedback"/>
+  <translation key="AIInsightFeedback.AiInsightFeedbackType" type="SfFieldLabel" value="AI Insight Feedback Type"/>
+  <translation key="AIInsightFeedback.Id" type="SfFieldLabel" value="AI Insight Feedback ID"/>
+  <translation key="AIInsightFeedback.Name" type="SfFieldLabel" value="Name"/>
+</translations>

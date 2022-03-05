@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Payment.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="Payment.Comments" type="SfFieldLabel" value="Kommentarer"/>
+  <translation key="Payment.Email" type="SfFieldLabel" value="E-post för granskning"/>
+  <translation key="Payment.GatewayResultCode" type="SfFieldLabel" value="Gateway-ResultCode"/>
+  <translation key="Payment.GatewayResultCodeDescription" type="SfFieldLabel" value="Beskrivning av gateway-ResultCode"/>
+  <translation key="Payment.Id" type="SfFieldLabel" value="Betalnings-ID"/>
+  <translation key="Payment.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="Payment.NetRefundApplied" type="SfFieldLabel" value="Netto återbetalning tillämpad"/>
+  <translation key="Payment.PaymentAuthorizationId" type="SfFieldLabel" value="Betalningsauktorisering"/>
+  <translation key="Payment.PaymentGroupId" type="SfFieldLabel" value="Betalningsgrupp"/>
+  <translation key="Payment.PaymentMethodId" type="SfFieldLabel" value="Betalningsmetod"/>
+  <translation key="Payment.PaymentNumber" type="SfFieldLabel" value="Betalningsnummer"/>
+  <translation key="Payment.SfResultCode" type="SfFieldLabel" value="Salesforce-ResultCode"/>
+  <translation key="Payment.TotalRefundApplied" type="SfFieldLabel" value="Total återbetalning tillämpad"/>
+  <translation key="Payment.TotalRefundUnapplied" type="SfFieldLabel" value="Total återbetalning ej tillämpad"/>
+</translations>

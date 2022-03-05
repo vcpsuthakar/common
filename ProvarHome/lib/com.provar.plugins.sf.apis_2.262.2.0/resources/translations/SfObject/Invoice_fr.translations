@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Invoice.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="Invoice.Id" type="SfFieldLabel" value="ID de facture"/>
+  <translation key="Invoice.InvoiceDate" type="SfFieldLabel" value="Date de facture"/>
+  <translation key="Invoice.InvoiceNumber" type="SfFieldLabel" value="Numéro de facture"/>
+  <translation key="Invoice.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="Invoice.Owner" type="SfFieldLabel" value="Nom Complet du propriétaire"/>
+  <translation key="Invoice.TotalAdjustmentAmount" type="SfFieldLabel" value="Montant total ajusté"/>
+</translations>

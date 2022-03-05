@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="DelegatedAccount.Id" type="SfFieldLabel" value="External Managed Account ID"/>
+  <translation key="DelegatedAccount.Name" type="SfFieldLabel" value="Name"/>
+  <translation key="DelegatedAccount.Owner" type="SfFieldLabel" value="Owner"/>
+  <translation key="DelegatedAccount.ParentId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="DelegatedAccount.TargetId" type="SfFieldLabel" value="Target Account"/>
+</translations>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AuthorizationFormConsent.ConsentGiverId" type="SfFieldLabel" value="Consent Giver"/>
+  <translation key="AuthorizationFormConsent.DocumentVersionId" type="SfFieldLabel" value="Content Version"/>
+  <translation key="AuthorizationFormConsent.Id" type="SfFieldLabel" value="Authorization Form Consent ID"/>
+  <translation key="AuthorizationFormConsent.Name" type="SfFieldLabel" value="Name"/>
+  <translation key="AuthorizationFormConsent.Owner" type="SfFieldLabel" value="Owner Name"/>
+</translations>

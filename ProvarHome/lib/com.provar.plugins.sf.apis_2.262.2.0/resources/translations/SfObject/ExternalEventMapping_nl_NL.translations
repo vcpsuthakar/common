@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ExternalEventMapping.EndDate" type="SfFieldLabel" value="End Date"/>
+  <translation key="ExternalEventMapping.EventId" type="SfFieldLabel" value="{Event}.{SfObject.Label}"/>
+  <translation key="ExternalEventMapping.ExternalId" type="SfFieldLabel" value="External Id"/>
+  <translation key="ExternalEventMapping.Id" type="SfFieldLabel" value="External Event Mapping ID"/>
+  <translation key="ExternalEventMapping.Name" type="SfFieldLabel" value="Name"/>
+  <translation key="ExternalEventMapping.Owner" type="SfFieldLabel" value="Eigenaarnaam"/>
+  <translation key="ExternalEventMapping.StartDate" type="SfFieldLabel" value="Start Date"/>
+</translations>

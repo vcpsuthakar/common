@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ShiftPattern.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="ShiftPattern.Id" type="SfFieldLabel" value="ID van dienstenpatroon"/>
+  <translation key="ShiftPattern.Name" type="SfFieldLabel" value="Naam van dienstenpatroon"/>
+  <translation key="ShiftPattern.Owner" type="SfFieldLabel" value="Eigenaarnaam"/>
+</translations>

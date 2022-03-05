@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CreditMemo.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="CreditMemo.CreditMemoNumber" type="SfFieldLabel" value="Numéro de note de crédit"/>
+  <translation key="CreditMemo.Id" type="SfFieldLabel" value="ID de note de crédit"/>
+  <translation key="CreditMemo.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="CreditMemo.Owner" type="SfFieldLabel" value="Nom Complet du propriétaire"/>
+</translations>

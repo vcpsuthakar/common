@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MessagingDeliveryError.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="MessagingDeliveryError.CreatedDate" type="SfFieldLabel" value="Date"/>
+  <translation key="MessagingDeliveryError.Id" type="SfFieldLabel" value="ID d'enregistrement"/>
+  <translation key="MessagingDeliveryError.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="MessagingDeliveryError.Name" type="SfFieldLabel" value="Nom de l'erreur de remise de message"/>
+</translations>

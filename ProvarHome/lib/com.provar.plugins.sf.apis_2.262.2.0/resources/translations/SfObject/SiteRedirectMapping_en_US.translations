@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="SiteRedirectMapping.Action" type="SfFieldLabel" value="Redirect Type"/>
+  <translation key="SiteRedirectMapping.Id" type="SfFieldLabel" value="Site Redirect Mapping ID"/>
+  <translation key="SiteRedirectMapping.Source" type="SfFieldLabel" value="Source URL"/>
+  <translation key="SiteRedirectMapping.Target" type="SfFieldLabel" value="Target URL"/>
+</translations>

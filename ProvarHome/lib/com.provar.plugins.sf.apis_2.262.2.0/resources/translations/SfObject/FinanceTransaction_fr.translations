@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="FinanceTransaction.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="FinanceTransaction.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="FinanceTransaction.Id" type="SfFieldLabel" value="ID de transaction financière"/>
+  <translation key="FinanceTransaction.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="FinanceTransaction.Owner" type="SfFieldLabel" value="Nom Complet du propriétaire"/>
+  <translation key="FinanceTransaction.TaxAmount" type="SfFieldLabel" value="Montant de taxe"/>
+  <translation key="FinanceTransaction.TotalAmountWithTax" type="SfFieldLabel" value="Montant total taxes comprises"/>
+</translations>

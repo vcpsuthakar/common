@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="NetworkFeedResponseMetric.BestCommentId" type="SfFieldLabel" value="Feed Comment"/>
+  <translation key="NetworkFeedResponseMetric.Id" type="SfFieldLabel" value="Network Feed Response Metric Id"/>
+  <translation key="NetworkFeedResponseMetric.Name" type="SfFieldLabel" value="Name"/>
+  <translation key="NetworkFeedResponseMetric.ParentRecordId" type="SfFieldLabel" value="Parent Record"/>
+</translations>

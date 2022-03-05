@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Invoice.Id" type="SfFieldLabel" value="Invoice ID"/>
+  <translation key="Invoice.InvoiceDate" type="SfFieldLabel" value="Invoice Date"/>
+  <translation key="Invoice.InvoiceNumber" type="SfFieldLabel" value="Invoice Number"/>
+  <translation key="Invoice.Owner" type="SfFieldLabel" value="Owner Name"/>
+</translations>

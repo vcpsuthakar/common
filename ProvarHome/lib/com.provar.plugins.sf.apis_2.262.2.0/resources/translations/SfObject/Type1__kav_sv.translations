@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Type1__kav.ArchivedById" type="SfFieldLabel" value="Arkiverat av"/>
+  <translation key="Type1__kav.Id" type="SfFieldLabel" value="Knowledge Artikel versions-ID"/>
+  <translation key="Type1__kav.IsDeleted" type="SfFieldLabel" value="Är borttaget"/>
+  <translation key="Type1__kav.Language" type="SfFieldLabel" value="Språk"/>
+  <translation key="Type1__kav.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="Type1__kav.Owner" type="SfFieldLabel" value="Ägare"/>
+  <translation key="Type1__kav.PublishStatus" type="SfFieldLabel" value="Publiceringsstatus"/>
+  <translation key="Type1__kav.Title" type="SfFieldLabel" value="Rubrik"/>
+</translations>

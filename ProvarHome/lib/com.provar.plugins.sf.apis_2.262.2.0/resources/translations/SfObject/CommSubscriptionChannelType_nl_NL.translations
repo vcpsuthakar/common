@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CommSubscriptionChannelType.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="CommSubscriptionChannelType.Id" type="SfFieldLabel" value="ID van type abonnementskanaal voor communicatie"/>
+  <translation key="CommSubscriptionChannelType.Name" type="SfFieldLabel" value="Naam"/>
+  <translation key="CommSubscriptionChannelType.Owner" type="SfFieldLabel" value="Eigenaarnaam"/>
+</translations>

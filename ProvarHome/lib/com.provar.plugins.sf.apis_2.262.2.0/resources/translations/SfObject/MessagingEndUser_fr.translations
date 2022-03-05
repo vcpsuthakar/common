@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MessagingEndUser.AccountId" type="SfFieldLabel" value="{Account}.{SfObject.Label}"/>
+  <translation key="MessagingEndUser.ContactId" type="SfFieldLabel" value="{Contact}.{SfObject.Label}"/>
+  <translation key="MessagingEndUser.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="MessagingEndUser.Id" type="SfFieldLabel" value="ID d'utilisateur de la messagerie"/>
+  <translation key="MessagingEndUser.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="MessagingEndUser.MessagingChannelId" type="SfFieldLabel" value="Canal de Messagerie"/>
+  <translation key="MessagingEndUser.Name" type="SfFieldLabel" value="Nom de l'utilisateur de la messagerie"/>
+  <translation key="MessagingEndUser.Owner" type="SfFieldLabel" value="Nom Complet du propriétaire"/>
+</translations>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CommSubscriptionConsent.ConsentCapturedDateTime" type="SfFieldLabel" value="Datum/tijd van vastlegging van instemming"/>
+  <translation key="CommSubscriptionConsent.ConsentCapturedSource" type="SfFieldLabel" value="Bron van vastlegging van instemming"/>
+  <translation key="CommSubscriptionConsent.ConsentGiverId" type="SfFieldLabel" value="Verlener van instemming"/>
+  <translation key="CommSubscriptionConsent.CurrencyIsoCode" type="SfFieldLabel" value="ISO-code valuta"/>
+  <translation key="CommSubscriptionConsent.EffectiveFromDate" type="SfFieldLabel" value="Met ingang van"/>
+  <translation key="CommSubscriptionConsent.EffectiveToDate" type="SfFieldLabel" value="Geldig tot"/>
+  <translation key="CommSubscriptionConsent.Id" type="SfFieldLabel" value="ID van instemming met abonnement op communicatie"/>
+  <translation key="CommSubscriptionConsent.Name" type="SfFieldLabel" value="Naam"/>
+  <translation key="CommSubscriptionConsent.Owner" type="SfFieldLabel" value="Eigenaarnaam"/>
+</translations>

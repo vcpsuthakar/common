@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="CommSubscriptionConsent.Id" type="SfFieldLabel" value="ID för samtycke till kommunikationsprenumeration"/>
+  <translation key="CommSubscriptionConsent.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="CommSubscriptionConsent.Name" type="SfFieldLabel" value="Namn"/>
+  <translation key="CommSubscriptionConsent.Owner" type="SfFieldLabel" value="Ägarens namn"/>
+</translations>

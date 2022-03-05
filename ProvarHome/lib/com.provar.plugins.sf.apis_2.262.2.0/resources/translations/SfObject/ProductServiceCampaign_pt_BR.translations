@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ProductServiceCampaign.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="ProductServiceCampaign.CurrencyIsoCode" type="SfFieldLabel" value="Código ISO da moeda"/>
+  <translation key="ProductServiceCampaign.Id" type="SfFieldLabel" value="ID da campanha de serviço do produto"/>
+  <translation key="ProductServiceCampaign.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="ProductServiceCampaign.Owner" type="SfFieldLabel" value="Nome do proprietário"/>
+  <translation key="ProductServiceCampaign.Product2Id" type="SfFieldLabel" value="{Product2}.{SfObject.Label}"/>
+  <translation key="ProductServiceCampaign.ProductServiceCampaignName" type="SfFieldLabel" value="Nome da campanha de serviço do produto"/>
+  <translation key="ProductServiceCampaign.StatusCategory" type="SfFieldLabel" value="Categoria de status"/>
+  <translation key="ProductServiceCampaign.WorkTypeId" type="SfFieldLabel" value="{WorkType}.{SfObject.Label}"/>
+</translations>

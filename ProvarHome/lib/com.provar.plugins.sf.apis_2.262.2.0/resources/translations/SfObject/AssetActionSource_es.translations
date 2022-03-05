@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AssetActionSource.Id" type="SfFieldLabel" value="Id. de Origen de acción de activo"/>
+</translations>

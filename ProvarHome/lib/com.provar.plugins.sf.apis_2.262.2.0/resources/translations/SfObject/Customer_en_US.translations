@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="Customer.CustomerStatusType" type="SfFieldLabel" value="Customer Status Type"/>
+  <translation key="Customer.Id" type="SfFieldLabel" value="Customer ID"/>
+  <translation key="Customer.Name" type="SfFieldLabel" value="Name"/>
+  <translation key="Customer.Owner" type="SfFieldLabel" value="Owner Name"/>
+</translations>

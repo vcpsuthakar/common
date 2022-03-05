@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PaymentGroup.Id" type="SfFieldLabel" value="ID för betalningsgrupp"/>
+  <translation key="PaymentGroup.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="PaymentGroup.PaymentGroupNumber" type="SfFieldLabel" value="Nummer för betalningsgrupp"/>
+</translations>

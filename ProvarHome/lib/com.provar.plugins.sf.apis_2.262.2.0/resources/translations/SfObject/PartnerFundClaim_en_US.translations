@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PartnerFundClaim.AllocationId" type="SfFieldLabel" value="Partner Fund Allocation"/>
+  <translation key="PartnerFundClaim.BudgetId" type="SfFieldLabel" value="Partner Marketing Budget"/>
+  <translation key="PartnerFundClaim.Id" type="SfFieldLabel" value="Partner Fund Claim ID"/>
+  <translation key="PartnerFundClaim.Owner" type="SfFieldLabel" value="Owner"/>
+  <translation key="PartnerFundClaim.RequestId" type="SfFieldLabel" value="Partner Fund Request"/>
+  <translation key="PartnerFundClaim.Title" type="SfFieldLabel" value="Partner Fund Claim Name"/>
+</translations>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PaymentLineInvoice.Comments" type="SfFieldLabel" value="Commentaires"/>
+  <translation key="PaymentLineInvoice.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="PaymentLineInvoice.EffectiveDate" type="SfFieldLabel" value="Date effective"/>
+  <translation key="PaymentLineInvoice.Id" type="SfFieldLabel" value="ID de facture de ligne de paiement"/>
+  <translation key="PaymentLineInvoice.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+</translations>

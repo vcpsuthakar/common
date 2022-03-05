@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ServiceTerritoryWorkType.CreatedById" type="SfFieldLabel" value="Créé par"/>
+  <translation key="ServiceTerritoryWorkType.Id" type="SfFieldLabel" value="ID de type de travail du territoire de service"/>
+  <translation key="ServiceTerritoryWorkType.LastModifiedById" type="SfFieldLabel" value="Dernière modification par"/>
+  <translation key="ServiceTerritoryWorkType.Name" type="SfFieldLabel" value="Nom du type de travail du territoire de service"/>
+</translations>

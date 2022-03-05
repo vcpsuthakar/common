@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="GtwyProvPaymentMethodType.Comments" type="SfFieldLabel" value="Kommentarer"/>
+  <translation key="GtwyProvPaymentMethodType.DeveloperName" type="SfFieldLabel" value="Namn"/>
+  <translation key="GtwyProvPaymentMethodType.GtwyProviderPaymentMethodType" type="SfFieldLabel" value="Typ av betalningsmetod för gatewayleverantör"/>
+  <translation key="GtwyProvPaymentMethodType.Id" type="SfFieldLabel" value="ID för typ av betalningsmetod för gatewayleverantör"/>
+  <translation key="GtwyProvPaymentMethodType.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="GtwyProvPaymentMethodType.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="GtwyProvPaymentMethodType.MasterLabel" type="SfFieldLabel" value="Etikett"/>
+</translations>

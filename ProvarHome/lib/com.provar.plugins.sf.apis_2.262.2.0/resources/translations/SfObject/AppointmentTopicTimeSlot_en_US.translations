@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="AppointmentTopicTimeSlot.AppointmentTopicTimeSlotKey" type="SfFieldLabel" value="Appointment Topic Time Slot Key"/>
+  <translation key="AppointmentTopicTimeSlot.Id" type="SfFieldLabel" value="Appointment Topic Time Slot ID"/>
+  <translation key="AppointmentTopicTimeSlot.Name" type="SfFieldLabel" value="Name"/>
+  <translation key="AppointmentTopicTimeSlot.OperatingHoursId" type="SfFieldLabel" value="{OperatingHours}.{SfObject.Label}"/>
+  <translation key="AppointmentTopicTimeSlot.WorkTypeGroupId" type="SfFieldLabel" value="{WorkTypeGroup}.{SfObject.Label}"/>
+  <translation key="AppointmentTopicTimeSlot.WorkTypeId" type="SfFieldLabel" value="{WorkType}.{SfObject.Label}"/>
+</translations>

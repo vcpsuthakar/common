@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ThreatDetectionFeedback.Id" type="SfFieldLabel" value="ID van feedback over detectie van bedreiging"/>
+  <translation key="ThreatDetectionFeedback.LastModifiedDate" type="SfFieldLabel" value="Datum laatst bijgewerkt"/>
+  <translation key="ThreatDetectionFeedback.Response" type="SfFieldLabel" value="Respons"/>
+</translations>

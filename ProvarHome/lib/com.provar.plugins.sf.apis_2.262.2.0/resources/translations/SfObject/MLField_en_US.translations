@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MLField.Field" type="SfFieldLabel" value="Custom Field Definition ID"/>
+  <translation key="MLField.Id" type="SfFieldLabel" value="ML Field Id"/>
+</translations>

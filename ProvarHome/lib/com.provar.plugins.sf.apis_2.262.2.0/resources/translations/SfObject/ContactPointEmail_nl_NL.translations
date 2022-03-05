@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="ContactPointEmail.ActiveToDate" type="SfFieldLabel" value="Datum van einde"/>
+  <translation key="ContactPointEmail.BestTimeToContactEndTime" type="SfFieldLabel" value="Eindtijd van beste tijd voor contact"/>
+  <translation key="ContactPointEmail.BestTimeToContactStartTime" type="SfFieldLabel" value="Begintijd van beste tijd voor contact"/>
+  <translation key="ContactPointEmail.Id" type="SfFieldLabel" value="ID van e-mailbericht voor aanspreekpunt"/>
+  <translation key="ContactPointEmail.IsPrimary" type="SfFieldLabel" value="Is primair"/>
+  <translation key="ContactPointEmail.Name" type="SfFieldLabel" value="Naam"/>
+  <translation key="ContactPointEmail.Owner" type="SfFieldLabel" value="Eigenaarnaam"/>
+  <translation key="ContactPointEmail.ParentId" type="SfFieldLabel" value="Bovenliggend element"/>
+</translations>

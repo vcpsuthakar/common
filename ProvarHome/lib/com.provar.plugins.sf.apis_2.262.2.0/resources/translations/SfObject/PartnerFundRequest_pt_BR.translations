@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PartnerFundRequest.CampaignId" type="SfFieldLabel" value="{Campaign}.{SfObject.Label}"/>
+  <translation key="PartnerFundRequest.CreatedDate" type="SfFieldLabel" value="Data de criação"/>
+  <translation key="PartnerFundRequest.CurrencyIsoCode" type="SfFieldLabel" value="Código ISO da moeda"/>
+  <translation key="PartnerFundRequest.Id" type="SfFieldLabel" value="ID da solicitação de fundos do parceiro"/>
+  <translation key="PartnerFundRequest.LastModifiedDate" type="SfFieldLabel" value="Data da última modificação"/>
+  <translation key="PartnerFundRequest.Owner" type="SfFieldLabel" value="Proprietário"/>
+  <translation key="PartnerFundRequest.Title" type="SfFieldLabel" value="Nome da solicitação de fundos do parceiro"/>
+</translations>

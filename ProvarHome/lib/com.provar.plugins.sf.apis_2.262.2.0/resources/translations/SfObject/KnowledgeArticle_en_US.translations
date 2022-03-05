@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="KnowledgeArticle.ArchivedById" type="SfFieldLabel" value="User"/>
+  <translation key="KnowledgeArticle.Id" type="SfFieldLabel" value="Knowledge Article ID"/>
+  <translation key="KnowledgeArticle.IsDeleted" type="SfFieldLabel" value="Is Deleted"/>
+</translations>

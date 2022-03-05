@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="PermissionSetGroup.DeveloperName" type="SfFieldLabel" value="API-namn"/>
+  <translation key="PermissionSetGroup.Id" type="SfFieldLabel" value="ID för PermissionSetGroup"/>
+  <translation key="PermissionSetGroup.LastModifiedById" type="SfFieldLabel" value="Senast ändrat av"/>
+  <translation key="PermissionSetGroup.LastModifiedDate" type="SfFieldLabel" value="Senast ändrat den"/>
+  <translation key="PermissionSetGroup.MasterLabel" type="SfFieldLabel" value="Etikett"/>
+</translations>

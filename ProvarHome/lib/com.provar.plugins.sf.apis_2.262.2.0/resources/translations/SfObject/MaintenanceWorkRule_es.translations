@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<translations>
+  <translation key="MaintenanceWorkRule.Id" type="SfFieldLabel" value="Id. de Regla de trabajo de mantenimiento"/>
+  <translation key="MaintenanceWorkRule.Name" type="SfFieldLabel" value="Nombre de regla de trabajo de mantenimiento"/>
+  <translation key="MaintenanceWorkRule.Owner" type="SfFieldLabel" value="Nombre completo del propietario"/>
+  <translation key="MaintenanceWorkRule.SortOrder" type="SfFieldLabel" value="Orden de clasificación"/>
+  <translation key="MaintenanceWorkRule.Title" type="SfFieldLabel" value="Título de regla de trabajo de mantenimiento"/>
+  <translation key="MaintenanceWorkRule.WorkTypeId" type="SfFieldLabel" value="{WorkType}.{SfObject.Label}"/>
+</translations>

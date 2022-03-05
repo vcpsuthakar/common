@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<sfObjectInfo class="sfObjectInfo" name="ContractLineItem">
+
+  <standardActions>
+    <sfActionLink lightningActionName="MultiAdd" modes="ContractLineItems" n="AddContractLine" newAction="true" t="New Line Items"/>
+  </standardActions>
+</sfObjectInfo>
