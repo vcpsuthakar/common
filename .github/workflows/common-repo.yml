@@ -1,6 +1,8 @@
-name: Second repo workflow
+name: Common workflow
 on:
-  workflow_dispatch:
+  repository_dispatch:
+    types:
+      - trigger-workflow-event
 jobs:
   second-job:
     runs-on: ubuntu-latest
