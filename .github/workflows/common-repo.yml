@@ -1,0 +1,11 @@
+name: Second repo workflow
+on:
+  workflow_dispatch:
+jobs:
+  second-job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Run some task
+        run: echo "This is the second repo workflow"
