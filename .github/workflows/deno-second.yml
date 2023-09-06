@@ -1,12 +1,17 @@
-name: Second Workflow
+name: Test Dispatch
+on: workflow_dispatch
 
-on:
-  repository_dispatch:
-    types: [trigger-common]
+permissions:
+  pull-requests: write
+  contents: write
 
 jobs:
-  build:
+  test:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Code
-        uses: actions/checkout@v2
+      - name: Test repository dispatch
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          # token: ${{ secrets.PUBLIC_REPO_SCOPED_TOKEN }}
+          event-type: tests
+          client-payload: '{"ref": "${{ github.ref }}", "sha": "${{ github.sha }}"}'
