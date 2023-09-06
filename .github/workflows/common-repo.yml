@@ -21,7 +21,7 @@ jobs:
           script: |
             github.repos.createDispatchEvent({
               owner: 'vcpsuthakar',  
-              repo: 'source-repo',  # Replace with your source repository name
+              repo: 'vcpsuthakar/microservice-app',  # Replace with your source repository name
               event_type: 'dispatch-success',
               client_payload: {}
             })
