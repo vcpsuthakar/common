@@ -1,12 +1,27 @@
-name: Common workflow
+name: Receive Dispatch
 on:
   repository_dispatch:
-    types: [ trigger-workflow-event ]
+    types: [test_dispatch]
+
 jobs:
-  second-job:
+  echo:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
-      - name: Run some task
-        run: echo "This is the second repo workflow"
+      - uses: actions/checkout@v2
+
+      # Add your target job steps here
+
+  notify_source:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Notify Source Repository
+        uses: actions/github-script@v5
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            github.repos.createDispatchEvent({
+              owner: 'vcpsuthakar',  # Replace with your repository's owner
+              repo: 'source-repo',  # Replace with your source repository name
+              event_type: 'dispatch-success',
+              client_payload: {}
+            })
