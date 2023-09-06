@@ -3,7 +3,7 @@ on:
   repository_dispatch:
     types: [mytests]
 jobs:
-  tests:
+  mytests:
     runs-on: ubuntu-latest
     steps:
       - name: Dump the client payload context
