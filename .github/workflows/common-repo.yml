@@ -7,4 +7,7 @@ jobs:
   echo:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Target Repository
       - uses: actions/checkout@v2
+      - name: Echo GitHub Payload
+        run: echo ${{ github.event.client_payload.github }}
