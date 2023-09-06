@@ -17,7 +17,7 @@ jobs:
       - name: Notify Source Repository
         uses: actions/github-script@v5
         with:
-          github-token: ${{ secrets.REPO_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             github.repos.createDispatchEvent({
               owner: 'vcpsuthakar',  
