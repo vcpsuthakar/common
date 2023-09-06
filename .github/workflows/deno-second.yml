@@ -2,21 +2,11 @@ name: Second Workflow
 
 on:
   repository_dispatch:
-    types: [second-workflow-trigger]
+    types: [trigger-common]
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout Code
         uses: actions/checkout@v2
-
-      - name: Get Client Payload Data
-        id: get-payload
-        run: echo "::set-output name=payload::$GITHUB_EVENT.client_payload"
-
-      - name: Use Payload Data
-        run: |
-          echo "Key 1: ${{ steps.get-payload.outputs.payload.key1 }}"
-          echo "Key 2: ${{ steps.get-payload.outputs.payload.key2 }}"
