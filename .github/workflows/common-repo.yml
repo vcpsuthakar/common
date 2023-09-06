@@ -11,4 +11,4 @@ jobs:
       - name: Checkout Target Repository
         uses: actions/checkout@v2
       - name: Echo GitHub Payload
-        run: echo ${{ github.event.client_payload.github }}
+        run: echo "Source Workflow Run ID:${{ github.event.client_payload.source_workflow_run_id }}"
