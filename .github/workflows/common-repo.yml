@@ -8,20 +8,3 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-
-      # Add your target job steps here
-
-  notify_source:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Notify Source Repository
-        uses: actions/github-script@v5
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            github.repos.createDispatchEvent({
-              owner: 'vcpsuthakar',  
-              repo: 'vcpsuthakar/microservice-app',  # Replace with your source repository name
-              event_type: 'dispatch-success',
-              client_payload: {}
-            })
