@@ -1,7 +1,7 @@
 name: Receive Dispatch
 on:
   repository_dispatch:
-    types: [test_dispatch]
+    types: [test_dispatch1]
 jobs:
   echo:
     runs-on: ubuntu-latest
