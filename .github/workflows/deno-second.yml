@@ -1,7 +1,7 @@
 name: Repository Dispatch
 on:
   repository_dispatch:
-    types: [tests]
+    types: [mytests]
 jobs:
   tests:
     runs-on: ubuntu-latest
