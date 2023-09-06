@@ -1,4 +1,4 @@
-name: Receive Dispatch
+name: Common Repo
 on:
   workflow_dispatch:
   repository_dispatch:
