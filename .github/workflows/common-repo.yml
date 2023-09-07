@@ -13,8 +13,8 @@ jobs:
 
       - name: Set Client Payload
         id: set-payload
-        run: echo "::set-output name=payload::your_client_payload_data"
-        
+        run: echo "::set-output name=payload::{\"run_id\":\"${{ github.run_id }}\",\"workflow_number\":\"${{ github.run_number }}\"}"
+       
        # Set the client payload data with run_id and workflow_number
       #- name: Set Client Payload
       #  id: set-payload
