@@ -10,8 +10,12 @@ jobs:
     steps:
       - name: Checkout Target Repository
         uses: actions/checkout@v2
-        
-       # Set the client payload data with run_id and workflow_number
+
       - name: Set Client Payload
         id: set-payload
-        run: echo "::set-output name=payload::{\"run_id\":\"${{ github.run_id }}\",\"workflow_number\":\"${{ github.run_number }}\"}"
+        run: echo "::set-output name=payload::your_client_payload_data"
+        
+       # Set the client payload data with run_id and workflow_number
+      #- name: Set Client Payload
+      #  id: set-payload
+      #  run: echo "::set-output name=payload::{\"run_id\":\"${{ github.run_id }}\",\"workflow_number\":\"${{ github.run_number }}\"}"
