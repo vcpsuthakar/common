@@ -10,8 +10,8 @@ jobs:
     steps:
       - name: Checkout Target Repository
         uses: actions/checkout@v2
-        if: github.event.client_payload.ref != ''
-        with:
-          ref: ${{ github.event.client_payload.ref }}
-
-      - run: echo ${{ github.event.client_payload.sha }}
+        
+       # Set the client payload data with run_id and workflow_number
+      - name: Set Client Payload
+        id: set-payload
+        run: echo "::set-output name=payload::{\"run_id\":\"${{ github.run_id }}\",\"workflow_number\":\"${{ github.run_number }}\"}"
