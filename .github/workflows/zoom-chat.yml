@@ -1,0 +1,38 @@
+name: Test Zoom Chat API
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  test-zoom-chat:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Obtain Access Token
+        id: get-token
+        run: |
+          AUTH=$(echo -n "IxKWwRr1ScyLLHeBDujbQ:gCA1n61W9c6laxrmu1ZcWUgGVJdpvtcL" | base64)
+          RESPONSE=$(curl --request POST \
+            --url https://zoom.us/oauth/token \
+            --header "Authorization: Basic $AUTH" \
+            --header 'Content-Type: application/x-www-form-urlencoded' \
+            --data "grant_type=authorization_code&code=${{ secrets.ZOOM_AUTHORIZATION_CODE }}&redirect_uri=${{ secrets.ZOOM_REDIRECT_URI }}")
+          echo "$RESPONSE"
+          ACCESS_TOKEN=$(echo "$RESPONSE" | jq -r '.access_token')
+          echo "ACCESS_TOKEN=$ACCESS_TOKEN" >> $GITHUB_ENV
+
+      - name: Send Chat Message
+        run: |
+          curl --request POST \
+            --url https://api.zoom.us/v2/chat/users/me/messages \
+            --header "Authorization: Bearer ${{ env.ACCESS_TOKEN }}" \
+            --header 'Content-Type: application/json' \
+            --data '{
+              "message": "Hello, this is a test message from GitHub Actions",
+              "to_contact": "'vcpsuthakar@gmail.com'"
+            }'
