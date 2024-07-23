@@ -15,12 +15,12 @@ jobs:
       - name: Obtain Access Token
         id: get-token
         run: |
-          AUTH=$(echo -n "IxKWwRr1ScyLLHeBDujbQ:gCA1n61W9c6laxrmu1ZcWUgGVJdpvtcL" | base64)
+          AUTH=$(echo -n "IxKWwRr1ScyLLHeBDujbQ:gCA1n61W9c6laxrmu1ZcWUgGVJdpvtcL")
           RESPONSE=$(curl --request POST \
             --url https://zoom.us/oauth/token \
             --header "Authorization: Basic $AUTH" \
             --header 'Content-Type: application/x-www-form-urlencoded' \
-            --data 'grant_type=authorization_code')
+            --data 'grant_type=client_credentials')
           echo "$RESPONSE"
           ACCESS_TOKEN=$(echo "$RESPONSE" | jq -r '.access_token')
           echo "ACCESS_TOKEN=$ACCESS_TOKEN" >> $GITHUB_ENV
