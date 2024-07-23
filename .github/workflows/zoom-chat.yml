@@ -20,7 +20,7 @@ jobs:
             --url https://zoom.us/oauth/token \
             --header "Authorization: Basic $AUTH" \
             --header 'Content-Type: application/x-www-form-urlencoded' \
-            --data 'grant_type=refresh_token')
+            --data 'grant_type=authorization_code')
           echo "$RESPONSE"
           ACCESS_TOKEN=$(echo "$RESPONSE" | jq -r '.access_token')
           echo "ACCESS_TOKEN=$ACCESS_TOKEN" >> $GITHUB_ENV
