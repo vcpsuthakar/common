@@ -2,6 +2,8 @@ name: Test Zoom Chat API
 
 on:
   workflow_dispatch:
+  push:
+    branches: [master]
 jobs:
   test-zoom-chat:
     runs-on: ubuntu-latest
