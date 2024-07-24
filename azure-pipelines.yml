@@ -10,12 +10,6 @@ pool:
   vmImage: ubuntu-latest
 
 steps:
-- task: Ant@1
-  inputs:
-    workingDirectory: ''
-    buildFile: 'build.xml'
-    javaHomeOption: 'JDKVersion'
-    jdkVersionOption: '1.8'
-    jdkArchitectureOption: 'x64'
-    publishJUnitResults: true
-    testResultsFiles: '**/TEST-*.xml'
+- script: | 
+          echo "Hello I'm here!"
+          echo "in Maybank, Malaysia!"
