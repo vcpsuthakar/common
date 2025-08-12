@@ -22,7 +22,7 @@ jobs:
 
       - name: Configure Gemini CLI
         run: |
-          gemini-cli config set-api-key ${{ secrets.GEMINI_API_KEY }}
+          gemini config set-api-key ${{ secrets.GEMINI_API_KEY }}
         env:
           GEMINI_API_KEY: AIzaSyAbKfCOr-L6cKUqyU_TRjU5UuH6AYm_4Ws
 
