@@ -24,7 +24,7 @@ jobs:
         run: |
           gemini-cli config set-api-key ${{ secrets.GEMINI_API_KEY }}
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_API_KEY: AIzaSyAbKfCOr-L6cKUqyU_TRjU5UuH6AYm_4Ws
 
       - name: Get changed files
         id: changed-files
