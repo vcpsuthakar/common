@@ -20,11 +20,11 @@ jobs:
           npm install -g @google/gemini-cli
           # or pip install gemini-cli depending on the implementation
 
-      - name: Configure Gemini CLI
-        run: |
-          gemini config set-api-key ${{ secrets.GEMINI_API_KEY }}
+      - name: Run Gemini CLI
         env:
-          GEMINI_API_KEY: AIzaSyAbKfCOr-L6cKUqyU_TRjU5UuH6AYm_4Ws
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          gemini -p "Write a haiku about CI/CD pipelines"
 
       - name: Get changed files
         id: changed-files
