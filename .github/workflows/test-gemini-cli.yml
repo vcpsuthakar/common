@@ -1,0 +1,20 @@
+name: AI-Powered Issue Triage
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  triage:
+    runs-on: ubuntu-latest
+    permissions:
+      issues: write
+      models: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: google-github-actions/run-gemini-cli@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          command: |
+            @gemini-cli label --labels "needs-triage"
+            @gemini-cli triage
