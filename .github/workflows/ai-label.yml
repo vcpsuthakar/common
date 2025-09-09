@@ -2,7 +2,7 @@ name: AI Moderator
 
 on:
   issues:
-    types: [labeled]
+    types: [opened]
 
 jobs:
   spam-detection:
