@@ -1,7 +1,8 @@
 name: AI Moderator
 
 on:
-  workflow_dispatch:
+  issues:
+    types: [labeled]
 
 jobs:
   spam-detection:
